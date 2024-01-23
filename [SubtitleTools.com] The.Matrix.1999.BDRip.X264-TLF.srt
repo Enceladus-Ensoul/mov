@@ -1,0 +1,5743 @@
+﻿1
+00:00:47,965 --> 00:00:49,091
+Transfer çağrısı: Alındı.
+
+2
+00:00:49,342 --> 00:00:52,762
+<i>- Herşey yerli yerinde mi?
+- Yerimi almaman gerekiyordu.</i>
+
+3
+00:00:53,012 --> 00:00:55,639
+<i>Biliyorum, ama vardiya
+değişelim dedim.</i>
+
+4
+00:00:56,182 --> 00:00:58,559
+<i>Ondan hoşlanıyorsun, değil mi?
+Onu seyretmekten.</i>
+
+5
+00:00:58,809 --> 00:01:01,812
+<i>- Saçmalama.
+- Onu öldüreceğiz. Anladın mı?</i>
+
+6
+00:01:02,063 --> 00:01:04,565
+<i>Morpheus, sorumlu kişinin
+O olduğunu sanıyor.</i>
+
+7
+00:01:04,815 --> 00:01:05,691
+<i>Ya sen?</i>
+
+8
+00:01:05,941 --> 00:01:07,735
+<i>Ne düşündüğüm önemli değil.</i>
+
+9
+00:01:07,985 --> 00:01:09,612
+<i>İnanmıyorsun, değil mi?</i>
+
+10
+00:01:09,862 --> 00:01:11,947
+<i>- Bunu duydun mu?
+- Neyi?</i>
+
+11
+00:01:12,198 --> 00:01:13,783
+<i>Bu hattın boş
+olduğundan emin misin?</i>
+
+12
+00:01:14,033 --> 00:01:16,035
+<i>Elbette eminim.</i>
+
+13
+00:01:16,369 --> 00:01:17,828
+<i>Kapatsam iyi olacak.</i>
+
+14
+00:01:55,783 --> 00:01:57,576
+- Kımıldama! Polis.
+- Ellerini başının üstüne koy.
+
+15
+00:01:58,119 --> 00:01:59,203
+Haydi. Hemen!
+
+16
+00:02:08,170 --> 00:02:10,715
+ŞEHRİN KALBİ OTELİ
+
+17
+00:02:20,599 --> 00:02:21,934
+Teğmen.
+
+18
+00:02:22,226 --> 00:02:23,227
+Lanet olsun.
+
+19
+00:02:24,061 --> 00:02:27,273
+Teğmen, size ayrıntılı
+emirler verilmişti.
+
+20
+00:02:27,523 --> 00:02:29,233
+Sadece işimi yapıyorum.
+
+21
+00:02:29,859 --> 00:02:34,280
+Sakın bana "yetki hikayesinden"
+söz etme. Alır bir tarafına sokarım.
+
+22
+00:02:34,739 --> 00:02:37,241
+Emirler, kendi korunman içindi.
+
+23
+00:02:38,743 --> 00:02:40,953
+Sanıyorum ki
+küçük bir kızla başedebiliriz.
+
+24
+00:02:46,083 --> 00:02:47,835
+İki birim yolladım.
+
+25
+00:02:48,085 --> 00:02:49,670
+Onu öldürecekler.
+
+26
+00:02:49,920 --> 00:02:53,049
+Hayır teğmen, adamlarınız öldü bile.
+
+27
+00:03:22,453 --> 00:03:23,287
+Lanet olsun.
+
+28
+00:03:25,831 --> 00:03:28,209
+Morpheus, hattı takip ettiler.
+Nasıl oldu bilmiyorum.
+
+29
+00:03:28,459 --> 00:03:30,044
+<i>Ben biliyorum. Kabloyu kestiler.</i>
+
+30
+00:03:30,294 --> 00:03:32,463
+<i>Vakit yok. Başka bir
+çıkışa gitmen gerekiyor.</i>
+
+31
+00:03:32,713 --> 00:03:34,090
+Başka ajanlarda var mı?
+
+32
+00:03:34,298 --> 00:03:35,132
+<i>Evet.</i>
+
+33
+00:03:35,341 --> 00:03:36,509
+Lanet olsun.
+
+34
+00:03:36,759 --> 00:03:38,302
+<i>Dikkatini topla Trinity.</i>
+
+35
+00:03:38,552 --> 00:03:40,930
+<i>Wells ve Lake kavşağında
+bir telefon var.</i>
+
+36
+00:03:41,305 --> 00:03:42,973
+<i>Başarabilirsin.</i>
+
+37
+00:03:43,224 --> 00:03:44,892
+<i>- Tamam.
+- Haydi.</i>
+
+38
+00:04:47,038 --> 00:04:48,080
+Bu imkansız.
+
+39
+00:05:23,074 --> 00:05:25,117
+Kalk Trinity. Haydi kalk.
+
+40
+00:05:25,743 --> 00:05:26,952
+Kalk.
+
+41
+00:06:12,832 --> 00:06:14,333
+Çıktı.
+
+42
+00:06:14,625 --> 00:06:15,918
+Artık fark etmez.
+
+43
+00:06:16,168 --> 00:06:18,254
+Muhbirimiz gerçek.
+
+44
+00:06:19,588 --> 00:06:21,257
+Sonraki hedeflerinin adı geçti elimize.
+
+45
+00:06:21,507 --> 00:06:23,175
+Adı Neo.
+
+46
+00:06:26,470 --> 00:06:27,972
+Arama yapmalıyız.
+
+47
+00:06:28,264 --> 00:06:30,182
+Şimdiden başladı bile.
+
+48
+00:06:40,026 --> 00:06:41,736
+Arıyor...
+
+49
+00:06:41,986 --> 00:06:44,780
+MORPHEUS, HEATHROW
+HAVAALANINDA POLİSİ ATLATTI
+
+50
+00:06:52,747 --> 00:06:54,707
+İnsanavı sürüyor
+
+51
+00:07:13,768 --> 00:07:15,603
+Kalk Neo...
+
+52
+00:07:24,945 --> 00:07:26,155
+Ne?
+
+53
+00:07:26,697 --> 00:07:30,242
+Matrix, sizi esir etti...
+
+54
+00:07:31,911 --> 00:07:33,412
+Neler oluyor?
+
+55
+00:07:37,875 --> 00:07:40,628
+Beyaz tavşanı izle.
+
+56
+00:07:41,045 --> 00:07:43,005
+"Beyaz tavşanı izle."
+
+57
+00:07:45,383 --> 00:07:46,258
+Çık
+
+58
+00:07:48,969 --> 00:07:50,096
+Tak, tak, Neo.
+
+59
+00:07:54,850 --> 00:07:56,018
+Kim O?
+
+60
+00:07:56,268 --> 00:07:57,561
+Benim, Choi.
+
+61
+00:08:11,075 --> 00:08:12,243
+İki saat geciktin.
+
+62
+00:08:12,827 --> 00:08:14,578
+Biliyorum. Onun hatası.
+
+63
+00:08:14,870 --> 00:08:15,830
+Parayı aldın mı?
+
+64
+00:08:17,957 --> 00:08:19,125
+2 bin dolar.
+
+65
+00:08:20,001 --> 00:08:21,127
+Bekle.
+
+66
+00:08:26,716 --> 00:08:28,092
+SİMULACRA ve SİMÜLASYON
+
+67
+00:08:38,811 --> 00:08:40,187
+Şükürler olsun.
+
+68
+00:08:40,438 --> 00:08:43,315
+Sen benim kurtarıcımsın. Benim İsam.
+
+69
+00:08:43,566 --> 00:08:45,443
+Bunu kullanırken yakalanırsan...
+
+70
+00:08:45,693 --> 00:08:47,820
+Biliyorum. Bu asla olmadı. Sen yoksun.
+
+71
+00:08:48,946 --> 00:08:51,032
+- Evet.
+- Bir terslik mi var?
+
+72
+00:08:51,282 --> 00:08:53,325
+Her zamankinden beyazsın.
+
+73
+00:08:54,452 --> 00:08:56,620
+Bilgisayarım, ben...
+
+74
+00:08:59,623 --> 00:09:01,375
+Hiç rüyada olduğundan ya da...
+
+75
+00:09:01,500 --> 00:09:04,170
+...uyandığından kuşkuya
+düştüğün oldu mu?
+
+76
+00:09:04,962 --> 00:09:07,715
+Her zaman. Buna meskalin denir.
+
+77
+00:09:08,215 --> 00:09:10,343
+Uçmanın tek yolu.
+
+78
+00:09:11,218 --> 00:09:13,721
+Bana kalırsa, bilgisayardan
+biraz uzak dur.
+
+79
+00:09:14,472 --> 00:09:16,515
+Biraz dinlen.
+
+80
+00:09:16,891 --> 00:09:20,644
+Ne düşünüyorsun Dujour?
+Onu da alalım mı?
+
+81
+00:09:22,646 --> 00:09:23,856
+Kesinlikle.
+
+82
+00:09:24,106 --> 00:09:27,276
+Hayır. Yapamam. Yarın çalışmalıyım.
+
+83
+00:09:27,818 --> 00:09:28,944
+Haydi.
+
+84
+00:09:29,195 --> 00:09:31,822
+Çok eğlenceli olacak.
+
+85
+00:09:38,329 --> 00:09:39,830
+Evet.
+
+86
+00:09:40,665 --> 00:09:42,541
+Tabii giderim.
+
+87
+00:10:10,236 --> 00:10:11,195
+Merhaba Neo.
+
+88
+00:10:12,738 --> 00:10:13,698
+Bu adı nereden biliyorsun?
+
+89
+00:10:14,532 --> 00:10:16,242
+Hakkında çok şey biliyorum.
+
+90
+00:10:17,118 --> 00:10:17,952
+Kimsin sen?
+
+91
+00:10:18,202 --> 00:10:19,203
+Adım Trinity.
+
+92
+00:10:20,162 --> 00:10:21,372
+Trinity.
+
+93
+00:10:23,165 --> 00:10:24,166
+Şu Trinity mi?
+
+94
+00:10:24,625 --> 00:10:26,335
+Maliye'nin veritabanına giren kişi.
+
+95
+00:10:26,585 --> 00:10:28,045
+Uzun zaman önceydi.
+
+96
+00:10:28,295 --> 00:10:29,130
+Tanrım.
+
+97
+00:10:29,380 --> 00:10:30,214
+Ne oldu?
+
+98
+00:10:30,673 --> 00:10:32,466
+Sen erkeksin...
+
+99
+00:10:34,218 --> 00:10:35,386
+...sanmıştım.
+
+100
+00:10:35,636 --> 00:10:37,096
+Çoğu erkek öyle zanneder.
+
+101
+00:10:38,305 --> 00:10:40,516
+Bilgisayarımdaki sendin.
+
+102
+00:10:41,142 --> 00:10:42,268
+Bunu nasıl yaptın?
+
+103
+00:10:42,893 --> 00:10:45,604
+Şu anda sana tek diyebileceğim...
+
+104
+00:10:46,230 --> 00:10:47,773
+...tehlikede olduğun.
+
+105
+00:10:48,232 --> 00:10:50,651
+- Seni uyarmak için buraya getirdim.
+- Neyden?
+
+106
+00:10:51,235 --> 00:10:52,903
+Seni izliyorlar Neo.
+
+107
+00:10:53,487 --> 00:10:54,321
+Kimler?
+
+108
+00:10:54,530 --> 00:10:55,906
+Sadece dinle.
+
+109
+00:10:59,410 --> 00:11:01,245
+Neden burada olduğunu biliyorum.
+
+110
+00:11:02,038 --> 00:11:03,998
+Ne yaptığını biliyorum.
+
+111
+00:11:04,248 --> 00:11:06,125
+Neden az uyuduğunu...
+
+112
+00:11:06,417 --> 00:11:09,545
+...yalnız yaşadığını ve
+her gece bilgisayar önünde...
+
+113
+00:11:09,795 --> 00:11:12,131
+...neden sabahladığını biliyorum.
+
+114
+00:11:13,299 --> 00:11:14,842
+Onu arıyorsun.
+
+115
+00:11:15,634 --> 00:11:18,637
+Biliyorum, çünkü ben de bir
+zamanlar aynı şeyi arıyordum.
+
+116
+00:11:19,138 --> 00:11:21,265
+Sonra O beni bulduğunda...
+
+117
+00:11:21,891 --> 00:11:24,977
+...aslında Onu değil...
+
+118
+00:11:25,895 --> 00:11:27,646
+...bir yanıtı aradığımı söyledi.
+
+119
+00:11:28,272 --> 00:11:31,400
+Bizi harekete geçiren soru bu Neo.
+
+120
+00:11:32,068 --> 00:11:34,737
+Seni buraya getiren de bu soru.
+
+121
+00:11:36,822 --> 00:11:38,199
+Soruyu biliyorsun...
+
+122
+00:11:38,449 --> 00:11:39,950
+...tıpkı benim gibi.
+
+123
+00:11:41,494 --> 00:11:43,120
+Matrix nedir?
+
+124
+00:11:43,371 --> 00:11:45,831
+Yanıt oralarda bir yerde Neo.
+
+125
+00:11:46,499 --> 00:11:48,501
+Seni arıyor.
+
+126
+00:11:49,293 --> 00:11:51,003
+Eğer istersen...
+
+127
+00:11:51,253 --> 00:11:53,255
+...seni bulacaktır.
+
+128
+00:12:00,054 --> 00:12:00,888
+Lanet olsun.
+
+129
+00:12:01,138 --> 00:12:02,390
+Lanet olsun.
+
+130
+00:12:12,650 --> 00:12:15,486
+Senin yetkiye karşı
+bir sorumluluğun var.
+
+131
+00:12:15,736 --> 00:12:19,782
+Özel olduğunu sanıyorsun. Kuralların
+senin için geçerli olmadığına.
+
+132
+00:12:20,491 --> 00:12:22,493
+Yanıldığın muhakkak.
+
+133
+00:12:25,454 --> 00:12:28,332
+Bu şirket, dünyanın en iyi
+yazılım şirketlerinden biri.
+
+134
+00:12:28,582 --> 00:12:31,961
+Çünkü tüm çalışanlar, bir
+bütünün parçası olduğunu anlıyorlar.
+
+135
+00:12:32,211 --> 00:12:36,841
+Çalışanlardan birinin sorunu varsa,
+şirketin bir sorunu var demektir.
+
+136
+00:12:39,093 --> 00:12:42,304
+Bir seçim yapma vakti geldi, Anderson.
+
+137
+00:12:43,180 --> 00:12:47,059
+Ya bugünden itibaren
+masanızda olmayı seçersiniz...
+
+138
+00:12:47,685 --> 00:12:50,271
+...ya da başka bir iş aramayı.
+
+139
+00:12:51,147 --> 00:12:52,481
+Açık konuşabildim mi?
+
+140
+00:12:52,732 --> 00:12:55,151
+Evet, Rhineheart. Çok açık.
+
+141
+00:13:03,617 --> 00:13:04,452
+Thomas Anderson?
+
+142
+00:13:06,746 --> 00:13:08,164
+Evet, benim.
+
+143
+00:13:16,172 --> 00:13:17,340
+Harika.
+
+144
+00:13:18,758 --> 00:13:19,925
+İyi günler.
+
+145
+00:13:36,734 --> 00:13:40,071
+<i>Merhaba Neo.
+Kim olduğumu biliyor musun?</i>
+
+146
+00:13:42,323 --> 00:13:44,075
+Morpheus.
+
+147
+00:13:44,325 --> 00:13:46,327
+<i>Seni arıyordum.</i>
+
+148
+00:13:46,577 --> 00:13:49,747
+<i>Sana göstereceğim şeyi
+görmeye hazır mısın, bilmiyorum.</i>
+
+149
+00:13:49,997 --> 00:13:53,167
+<i>Ancak ne yazık ki
+ikimizin de vakti azalıyor.</i>
+
+150
+00:13:53,417 --> 00:13:57,129
+<i>Peşine düştüler Neo.
+Ne yapacaklarını bilmiyorum.</i>
+
+151
+00:13:57,380 --> 00:13:58,714
+Kimler peşimde?
+
+152
+00:13:58,964 --> 00:14:01,050
+<i>Kalk ve kendin gör.</i>
+
+153
+00:14:01,300 --> 00:14:02,802
+Ne? Şimdi mi?
+
+154
+00:14:03,094 --> 00:14:04,095
+<i>Evet.</i>
+
+155
+00:14:04,345 --> 00:14:05,596
+<i>Şimdi.</i>
+
+156
+00:14:06,472 --> 00:14:08,349
+<i>Yavaş yap.</i>
+
+157
+00:14:08,766 --> 00:14:09,975
+<i>Asansör.</i>
+
+158
+00:14:14,855 --> 00:14:16,649
+Lanet olsun.
+
+159
+00:14:21,320 --> 00:14:22,321
+Benden ne istiyorlar?
+
+160
+00:14:22,571 --> 00:14:26,242
+<i>Bilmiyorum. Öğrenmek istemiyorsan,
+oradan çıksan iyi olur.</i>
+
+161
+00:14:26,492 --> 00:14:27,118
+Nasıl?
+
+162
+00:14:27,326 --> 00:14:30,496
+<i>Seni yönlendirebilirim
+ama dediklerimi yapmalısın.</i>
+
+163
+00:14:31,372 --> 00:14:33,374
+<i>Karşındaki odacık boş.</i>
+
+164
+00:14:36,502 --> 00:14:38,629
+<i>- Peki ya beni...
+- Hemen git.</i>
+
+165
+00:14:45,386 --> 00:14:47,763
+<i>Biraz burada kal.</i>
+
+166
+00:14:54,979 --> 00:14:57,732
+<i>Sana dediğimde, koridorun sonundaki...</i>
+
+167
+00:14:57,982 --> 00:14:59,942
+<i>... büronun önündeki
+kuyruğun sonuna git.</i>
+
+168
+00:15:00,192 --> 00:15:02,570
+<i>Hiç dikkat çekme.</i>
+
+169
+00:15:04,989 --> 00:15:05,990
+<i>Şimdi.</i>
+
+170
+00:15:20,379 --> 00:15:23,924
+<i>Tamam. Dışarıda bir iskele var.</i>
+
+171
+00:15:26,635 --> 00:15:28,971
+<i>- Bunları nereden biliyorsun?
+- Vaktimiz yok Neo!</i>
+
+172
+00:15:29,221 --> 00:15:32,058
+<i>Solunda bir pencere var. Oraya git.</i>
+
+173
+00:15:34,310 --> 00:15:35,853
+<i>Aç.</i>
+
+174
+00:15:36,687 --> 00:15:38,481
+<i>Çatıya çıkmak için iskeleyi
+kullanabilirsin.</i>
+
+175
+00:15:38,731 --> 00:15:41,317
+<i>Olmaz. Olmaz. Bu çılgınlık!</i>
+
+176
+00:15:41,567 --> 00:15:43,944
+<i>Bu binadan iki çıkış var:</i>
+
+177
+00:15:44,195 --> 00:15:47,990
+<i>Biri, iskeleden.
+Diğeri, onların gözetiminde.</i>
+
+178
+00:15:55,039 --> 00:15:56,791
+Bu çılgınlık.
+
+179
+00:15:57,958 --> 00:15:59,835
+Bunlar neden benim başıma geliyor?
+
+180
+00:16:00,127 --> 00:16:01,754
+Ne yaptım?
+
+181
+00:16:02,129 --> 00:16:04,882
+Önemsiz biriyim. Birşey yapmadım.
+
+182
+00:16:05,466 --> 00:16:06,926
+Öleceğim.
+
+183
+00:16:16,727 --> 00:16:17,770
+Lanet olsun.
+
+184
+00:16:38,040 --> 00:16:39,166
+Lanet olsun!
+
+185
+00:16:44,130 --> 00:16:45,923
+Bunu yapamam.
+
+186
+00:16:58,769 --> 00:16:59,603
+Lanet olsun.
+
+187
+00:17:48,861 --> 00:17:53,699
+Gördüğünüz gibi bir süredir
+sizi izliyoruz Bay Anderson.
+
+188
+00:17:54,992 --> 00:17:57,662
+Anlaşılan sizin...
+
+189
+00:17:57,912 --> 00:18:00,039
+...iki hayatınız var.
+
+190
+00:18:01,457 --> 00:18:03,959
+Birinde, Thomas A. Anderson'sınız...
+
+191
+00:18:04,210 --> 00:18:07,546
+...Saygın bir yazılım şirketinde
+program yazarı.
+
+192
+00:18:08,589 --> 00:18:11,884
+Sosyal güvenlik numaran var.
+Vergilerini ödüyorsun.
+
+193
+00:18:12,343 --> 00:18:13,594
+Ayrıca...
+
+194
+00:18:15,179 --> 00:18:18,808
+...evsahibine çöpü taşımakta
+yardım ediyorsun.
+
+195
+00:18:21,310 --> 00:18:24,438
+Diğer hayatın bilgisayarlarda geçiyor...
+
+196
+00:18:24,730 --> 00:18:27,692
+...Orada "Neo",
+korsan adını kullanıyorsun...
+
+197
+00:18:27,942 --> 00:18:32,738
+Yasalarda yer alan neredeyse
+her bilgisayar suçunu işledin.
+
+198
+00:18:34,031 --> 00:18:35,991
+Bu hayatlardan birinin...
+
+199
+00:18:36,242 --> 00:18:38,077
+...geleceği var.
+
+200
+00:18:38,411 --> 00:18:40,413
+Diğerinin yok.
+
+201
+00:18:44,125 --> 00:18:47,962
+Mümkün olduğu kadar açık
+konuşacağım Bay Anderson.
+
+202
+00:18:48,963 --> 00:18:50,297
+Buradayız, çünkü...
+
+203
+00:18:50,631 --> 00:18:52,883
+...yardımınıza ihtiyacımız var.
+
+204
+00:18:56,512 --> 00:18:59,515
+Belirli bir kişinin sizinle
+temasa geçtiğini...
+
+205
+00:18:59,765 --> 00:19:01,559
+...biliyoruz.
+
+206
+00:19:02,476 --> 00:19:06,522
+Kendisine "Morpheus" diyen biri.
+
+207
+00:19:07,523 --> 00:19:11,527
+Bu adam hakkında
+ne düşündüğünüz önemli değil.
+
+208
+00:19:11,777 --> 00:19:14,196
+Pek çok yetkili Onu...
+
+209
+00:19:14,447 --> 00:19:17,491
+...yaşayan en tehlikeli insan
+olarak tanımlıyor.
+
+210
+00:19:20,244 --> 00:19:21,454
+Meslektaşlarım...
+
+211
+00:19:21,871 --> 00:19:24,790
+...seninle boş yere
+uğraştığıma inanıyor.
+
+212
+00:19:25,082 --> 00:19:28,502
+Ama namuslu olmanı
+dilediğine inanıyorum.
+
+213
+00:19:28,794 --> 00:19:32,298
+Senin sicilini temizleyecek ve...
+
+214
+00:19:32,673 --> 00:19:34,800
+...yeniden başlamanı sağlayacağız.
+
+215
+00:19:35,301 --> 00:19:38,220
+Bunun karşılığında
+istediğimiz tek şey...
+
+216
+00:19:38,471 --> 00:19:41,974
+...ünlü bir teröristi yargı
+önüne çıkarmamıza yardım etmen.
+
+217
+00:19:43,351 --> 00:19:44,602
+Evet.
+
+218
+00:19:45,895 --> 00:19:47,980
+İyi bir anlaşmaya benziyor.
+
+219
+00:19:49,607 --> 00:19:51,359
+Ama daha iyi bir anlaşma var.
+
+220
+00:19:51,609 --> 00:19:53,110
+Ne dersiniz?
+
+221
+00:19:53,527 --> 00:19:55,529
+...Size hareket çeksem ve...
+
+222
+00:19:58,115 --> 00:20:00,159
+...siz de telefon hakkıma
+izin verseniz.
+
+223
+00:20:02,328 --> 00:20:04,163
+Bay Anderson...
+
+224
+00:20:08,542 --> 00:20:09,377
+...beni üzüyorsunuz.
+
+225
+00:20:09,627 --> 00:20:12,254
+Bu gestapo ayaklarıyla
+beni korkutamazsınız.
+
+226
+00:20:12,505 --> 00:20:13,881
+Haklarımı biliyorum.
+
+227
+00:20:14,131 --> 00:20:15,633
+Telefon hakkımı kullanacağım.
+
+228
+00:20:16,217 --> 00:20:18,386
+Söyleyin, Bay Anderson...
+
+229
+00:20:19,261 --> 00:20:20,680
+...konuşamazsanız...
+
+230
+00:20:20,930 --> 00:20:24,517
+...telefon hakkı ne işe yarar?
+
+231
+00:20:58,300 --> 00:21:00,511
+Bize yardım edeceksiniz...
+
+232
+00:21:01,220 --> 00:21:02,179
+...isteseniz de...
+
+233
+00:21:02,430 --> 00:21:03,305
+...istemeseniz de.
+
+234
+00:22:01,614 --> 00:22:04,867
+<i>Bu hat dinleniyor. Kısa konuşmalıyız.</i>
+
+235
+00:22:09,664 --> 00:22:11,499
+<i>Ne istediğimi bilseler...</i>
+
+236
+00:22:11,749 --> 00:22:13,751
+<i>... herhalde ölmüş olurdun?</i>
+
+237
+00:22:14,752 --> 00:22:18,464
+Neden söz ediyorsun? Ne?
+Neler oluyor bana.
+
+238
+00:22:18,714 --> 00:22:23,552
+<i>Sen O'sun Neo. Son birkaç yılı...</i>
+
+239
+00:22:23,803 --> 00:22:26,764
+<i>... beni aramakla geçirdin.
+Bense hayatım boyunca...</i>
+
+240
+00:22:27,014 --> 00:22:28,516
+<i>... seni aradım.</i>
+
+241
+00:22:30,059 --> 00:22:32,228
+<i>Hala buluşmak istiyor musun?</i>
+
+242
+00:22:33,187 --> 00:22:36,065
+<i>- Evet.
+- O halde, Adams Sokağı Köprüsüne git.</i>
+
+243
+00:22:46,283 --> 00:22:47,493
+Gir.
+
+244
+00:22:59,755 --> 00:23:00,589
+Bu da ne?
+
+245
+00:23:00,840 --> 00:23:03,384
+Gerekli. Korunmamız için.
+
+246
+00:23:03,634 --> 00:23:04,635
+Neyden?
+
+247
+00:23:04,885 --> 00:23:05,803
+Senden.
+
+248
+00:23:07,346 --> 00:23:08,806
+Gömleğini çıkar.
+
+249
+00:23:09,306 --> 00:23:10,141
+Arabayı durdur.
+
+250
+00:23:14,729 --> 00:23:15,896
+Dinle beni.
+
+251
+00:23:16,147 --> 00:23:18,149
+Soru sorma oyununa vaktimiz yok.
+
+252
+00:23:18,649 --> 00:23:21,027
+Şu anda tek kural işler:
+
+253
+00:23:21,318 --> 00:23:22,653
+Ya bizim yolumuz...
+
+254
+00:23:22,987 --> 00:23:24,071
+...ya da cehennemin yolu.
+
+255
+00:23:30,828 --> 00:23:31,704
+Tamam.
+
+256
+00:23:33,581 --> 00:23:36,042
+Lütfen Neo, bana güvenmelisin.
+
+257
+00:23:36,625 --> 00:23:39,253
+- Neden?
+- Çünkü sen bunları yaşadın.
+
+258
+00:23:40,004 --> 00:23:41,213
+Bu yolu biliyorsun.
+
+259
+00:23:42,214 --> 00:23:43,883
+Nasıl bittiğini biliyorsun.
+
+260
+00:23:46,052 --> 00:23:48,304
+Ben de öyle olmasını
+istemediğini biliyorum.
+
+261
+00:24:02,485 --> 00:24:04,028
+Apoc, ışıklar.
+
+262
+00:24:06,530 --> 00:24:08,699
+Geri yaslan. Gömleğini kaldır.
+
+263
+00:24:10,618 --> 00:24:11,452
+Bu da ne?
+
+264
+00:24:11,786 --> 00:24:12,870
+Sende mikrofon var.
+
+265
+00:24:20,628 --> 00:24:22,088
+Rahatlamaya çalış.
+
+266
+00:24:28,386 --> 00:24:29,553
+Haydi.
+
+267
+00:24:30,763 --> 00:24:31,639
+Haydi.
+
+268
+00:24:33,432 --> 00:24:34,350
+Hareket ediyor.
+
+269
+00:24:36,185 --> 00:24:37,395
+Lanet olsun.
+
+270
+00:24:39,230 --> 00:24:41,524
+- Kaybedeceksin.
+- Hayır.
+
+271
+00:24:41,774 --> 00:24:42,733
+Açılın.
+
+272
+00:24:51,325 --> 00:24:53,452
+Aman Tanrım! Bu gerçek mi?
+
+273
+00:25:27,194 --> 00:25:28,529
+Geldik.
+
+274
+00:25:31,866 --> 00:25:34,327
+Sana bir öneri.
+
+275
+00:25:35,286 --> 00:25:36,954
+Dürüst ol.
+
+276
+00:25:38,539 --> 00:25:40,750
+Tahmininden fazlasını biliyor.
+
+277
+00:25:49,467 --> 00:25:50,801
+Nihayet.
+
+278
+00:25:52,345 --> 00:25:53,429
+Hoşgeldin Neo.
+
+279
+00:25:54,638 --> 00:25:56,557
+Tahmin edebileceğin gibi...
+
+280
+00:25:56,807 --> 00:25:58,059
+...ben Morpheus'um.
+
+281
+00:25:59,101 --> 00:26:00,686
+Seninle tanışmak bir onur.
+
+282
+00:26:01,145 --> 00:26:02,188
+Hayır...
+
+283
+00:26:02,772 --> 00:26:04,065
+...o şeref bana ait.
+
+284
+00:26:04,982 --> 00:26:07,485
+Lütfen. Gel, otur.
+
+285
+00:26:22,583 --> 00:26:24,210
+Eminim...
+
+286
+00:26:24,627 --> 00:26:27,380
+...şu anda kendini
+tavşan deliğinden düşen...
+
+287
+00:26:29,090 --> 00:26:31,509
+...Alice gibi hissediyorsundur.
+
+288
+00:26:32,426 --> 00:26:33,427
+Öyle denilebilir.
+
+289
+00:26:34,345 --> 00:26:36,972
+Gözlerinden belli.
+
+290
+00:26:37,556 --> 00:26:40,851
+Sende gördüklerini
+kabullenen birinin gözleri var...
+
+291
+00:26:41,102 --> 00:26:43,354
+...uyanmayı beklediğin için.
+
+292
+00:26:44,772 --> 00:26:47,400
+Tuhaf ama bunlar
+gerçekten pek uzak değil.
+
+293
+00:26:48,067 --> 00:26:50,569
+Kadere inanır mısın Neo?
+
+294
+00:26:50,861 --> 00:26:51,737
+Hayır.
+
+295
+00:26:52,196 --> 00:26:53,155
+Neden?
+
+296
+00:26:53,406 --> 00:26:56,200
+Hayatımı kontrol edemiyor olma
+düşüncesini sevmem.
+
+297
+00:26:57,284 --> 00:27:00,621
+Ne demek istediğini çok iyi anlıyorum.
+
+298
+00:27:04,917 --> 00:27:07,294
+Neden burada olduğunu anlatayım.
+
+299
+00:27:08,337 --> 00:27:09,880
+Birşey bildiğin için buradasın.
+
+300
+00:27:10,423 --> 00:27:12,049
+Bildiğini açıklayamıyorsun.
+
+301
+00:27:12,550 --> 00:27:14,135
+Ama hissediyorsun.
+
+302
+00:27:14,719 --> 00:27:16,637
+Hayatın boyunca hissettin.
+
+303
+00:27:17,221 --> 00:27:21,392
+Dünyada ters giden birşeyler var.
+Ne olduğunu bilmiyorsun ama orada.
+
+304
+00:27:21,892 --> 00:27:24,103
+Beyninde kıymık gibi...
+
+305
+00:27:24,353 --> 00:27:26,230
+...seni çıldırtan birşey.
+
+306
+00:27:27,148 --> 00:27:29,900
+Seni bana getiren şey bu duyguydu.
+
+307
+00:27:32,445 --> 00:27:34,280
+Neden söz ettiğimi biliyor musun?
+
+308
+00:27:36,115 --> 00:27:37,450
+Matrix mi?
+
+309
+00:27:39,952 --> 00:27:41,620
+Ne olduğunu...
+
+310
+00:27:42,079 --> 00:27:44,081
+...öğrenmek ister misin?
+
+311
+00:27:46,459 --> 00:27:48,336
+Matrix her yerde.
+
+312
+00:27:48,586 --> 00:27:50,296
+Etrafımızda.
+
+313
+00:27:50,546 --> 00:27:52,506
+Şu anda, bu odada.
+
+314
+00:27:53,341 --> 00:27:55,551
+Pencereden dışarı
+baktığında görürsün...
+
+315
+00:27:55,801 --> 00:27:58,137
+...ya da televizyonu açtığında.
+
+316
+00:27:58,554 --> 00:28:01,098
+İşe gittiğinde hissedersin...
+
+317
+00:28:02,641 --> 00:28:04,310
+...ya da kiliseye.
+
+318
+00:28:04,727 --> 00:28:06,812
+Vergi öderken.
+
+319
+00:28:07,938 --> 00:28:10,858
+Gerçeği görmemen için...
+
+320
+00:28:11,108 --> 00:28:12,693
+...dünya, bir perde gibi
+önüne çekilmiş sanki.
+
+321
+00:28:14,904 --> 00:28:16,155
+Ne gerçeği?
+
+322
+00:28:20,409 --> 00:28:21,952
+Köle olduğun gerçeği.
+
+323
+00:28:23,454 --> 00:28:25,748
+Herkes gibi bir kalıba doğdun.
+
+324
+00:28:25,998 --> 00:28:30,670
+Tadını alamadığın, dokunamadığın,
+koklayamadığın bir hapise.
+
+325
+00:28:30,961 --> 00:28:32,254
+Aklın için...
+
+326
+00:28:32,505 --> 00:28:33,673
+...bir hapis.
+
+327
+00:28:40,638 --> 00:28:42,973
+Ne yazık ki, kimseye...
+
+328
+00:28:43,307 --> 00:28:45,685
+...Matrix'in ne olduğu anlatılamaz.
+
+329
+00:28:49,146 --> 00:28:51,023
+Kendin görmelisin.
+
+330
+00:29:00,533 --> 00:29:02,827
+Bu, son fırsatın.
+
+331
+00:29:03,077 --> 00:29:05,413
+Buradan sonra dönüş yok.
+
+332
+00:29:05,871 --> 00:29:07,373
+Mavi hapı alırsan...
+
+333
+00:29:07,665 --> 00:29:10,710
+...hikaye biter.
+Yatağında uyanır ve istediğin...
+
+334
+00:29:10,960 --> 00:29:12,753
+...şeye inanırsın.
+
+335
+00:29:13,004 --> 00:29:14,338
+Kırmızı hapı alırsan...
+
+336
+00:29:14,588 --> 00:29:16,549
+...Mucize Ülkesi'nde kalırsın ve sana...
+
+337
+00:29:17,049 --> 00:29:19,760
+...tavşan deliğinin ne kadar
+derin olduğunu gösteririm.
+
+338
+00:29:29,645 --> 00:29:30,855
+Unutma...
+
+339
+00:29:31,689 --> 00:29:34,734
+...sana gerçeği öneriyorum. O kadar.
+
+340
+00:29:49,040 --> 00:29:50,374
+İzle beni.
+
+341
+00:29:52,918 --> 00:29:54,587
+Apoc, şebekede miyiz?
+
+342
+00:29:54,837 --> 00:29:56,213
+Neredeyse.
+
+343
+00:30:01,969 --> 00:30:03,471
+Lütfen şuraya oturun.
+
+344
+00:30:21,656 --> 00:30:23,366
+Bunları sen mi yaptın?
+
+345
+00:30:27,495 --> 00:30:29,497
+Yuttuğun hap, bir izleme
+programının parçası.
+
+346
+00:30:30,247 --> 00:30:34,877
+Amacı, girdi-çıktı taşıyıcı
+sinyalini bozmak.
+
+347
+00:30:35,419 --> 00:30:36,462
+Bu ne demek?
+
+348
+00:30:37,046 --> 00:30:39,215
+Kemerini bağla Dorothy.
+
+349
+00:30:39,548 --> 00:30:40,883
+Çünkü artık...
+
+350
+00:30:41,133 --> 00:30:42,176
+...Kansas yok.
+
+351
+00:31:20,089 --> 00:31:21,465
+Sen mi?
+
+352
+00:31:32,476 --> 00:31:36,564
+Gerçek olduğuna inandığın
+bir rüya gördün mü Neo?
+
+353
+00:31:38,024 --> 00:31:40,609
+Ya o rüyadan uyanamazsan?
+
+354
+00:31:40,860 --> 00:31:43,362
+Hayal dünyası ile
+gerçek dünya arasındaki farkı...
+
+355
+00:31:43,988 --> 00:31:45,406
+...nasıl anlardın?
+
+356
+00:31:47,033 --> 00:31:48,242
+Bu olamaz.
+
+357
+00:31:48,492 --> 00:31:49,410
+Ne olamaz?
+
+358
+00:31:50,119 --> 00:31:51,620
+Gerçek mi?
+
+359
+00:31:55,583 --> 00:31:56,876
+Kopyalama aşamasına geçiyor.
+
+360
+00:31:57,335 --> 00:31:58,210
+Hala birşey yok.
+
+361
+00:31:58,794 --> 00:32:00,004
+Soğuk.
+
+362
+00:32:00,254 --> 00:32:01,630
+Soğuk.
+
+363
+00:32:05,509 --> 00:32:07,178
+Tank, hemen sinyal almalıyız.
+
+364
+00:32:08,721 --> 00:32:09,555
+Kalbi tekliyor.
+
+365
+00:32:09,805 --> 00:32:11,349
+Apoc. Yeri.
+
+366
+00:32:11,599 --> 00:32:13,059
+Hedefleme neredeyse tamam.
+
+367
+00:32:16,354 --> 00:32:17,772
+Kriz geçirmek üzere.
+
+368
+00:32:18,022 --> 00:32:18,856
+Tamam. Kilitle.
+
+369
+00:32:19,065 --> 00:32:20,524
+Şimdi Tank. Şimdi.
+
+370
+00:35:17,785 --> 00:35:18,869
+Gerçek dünyaya...
+
+371
+00:35:19,203 --> 00:35:21,122
+...hoşgeldin.
+
+372
+00:35:22,540 --> 00:35:24,375
+Başardık Trinity.
+
+373
+00:35:24,625 --> 00:35:26,168
+Onu bulduk.
+
+374
+00:35:26,419 --> 00:35:29,213
+- Umarım haklısın.
+- Ummaya gerek yok.
+
+375
+00:35:29,797 --> 00:35:31,382
+Biliyorum.
+
+376
+00:35:36,554 --> 00:35:37,596
+Öldüm mü?
+
+377
+00:35:38,097 --> 00:35:40,266
+Tam tersine.
+
+378
+00:35:54,238 --> 00:35:55,656
+Daha çok çalışmalıyız.
+
+379
+00:35:57,199 --> 00:35:58,284
+Ne yapıyorsunuz?
+
+380
+00:35:58,534 --> 00:36:00,745
+Kasların çöktü.
+Onları yeniden geliştiriyoruz.
+
+381
+00:36:01,329 --> 00:36:02,872
+Gözlerim neden acıyor?
+
+382
+00:36:03,581 --> 00:36:05,458
+Onları hiç kullanmadın.
+
+383
+00:36:09,420 --> 00:36:10,254
+Dinlen Neo.
+
+384
+00:36:10,504 --> 00:36:12,173
+Yanıtlar geliyor.
+
+385
+00:37:26,747 --> 00:37:28,332
+Morpheus, bana ne oldu?
+
+386
+00:37:29,083 --> 00:37:30,042
+Burası da ne?
+
+387
+00:37:30,292 --> 00:37:32,962
+Ne değil, ne zaman?
+
+388
+00:37:33,671 --> 00:37:34,505
+"Ne zaman" mı?
+
+389
+00:37:34,714 --> 00:37:36,757
+1999 yılında
+olduğumuzu sanıyorsun ama...
+
+390
+00:37:37,008 --> 00:37:39,260
+...2199'a daha yakınsın.
+
+391
+00:37:40,386 --> 00:37:43,139
+Kaç yılında olduğumuzu söyleyemem...
+
+392
+00:37:43,389 --> 00:37:45,016
+...çünkü tam olarak biz de bilmiyoruz.
+
+393
+00:37:45,516 --> 00:37:48,352
+Şimdilik bunu açıklayabilecek
+birşey söyleyemem.
+
+394
+00:37:48,602 --> 00:37:49,770
+Gel benimle.
+
+395
+00:37:50,062 --> 00:37:51,355
+Kendin gör.
+
+396
+00:37:51,897 --> 00:37:53,649
+Bu, benim gemim.
+
+397
+00:37:53,941 --> 00:37:56,861
+<i>Nebuchadnezzar.
+Bir hava ve kara taşıtıdır.</i>
+
+398
+00:37:59,697 --> 00:38:01,449
+Burası ana güverte.
+
+399
+00:38:07,455 --> 00:38:08,456
+Burası merkez...
+
+400
+00:38:08,706 --> 00:38:10,708
+NEBUCHADNEZZAR
+2060 YILINDA ABD'DE YAPILDI
+
+401
+00:38:10,958 --> 00:38:14,712
+...Buradan korsan yayın yapıp,
+Matrix'e giriyoruz.
+
+402
+00:38:18,090 --> 00:38:21,260
+Mürettebatın çoğunu tanıyorsun.
+
+403
+00:38:26,265 --> 00:38:27,683
+Bu, Apoc...
+
+404
+00:38:28,476 --> 00:38:29,810
+...Switch...
+
+405
+00:38:31,395 --> 00:38:32,563
+...ve Cypher.
+
+406
+00:38:32,813 --> 00:38:36,525
+Tanımadıkların: Tank ve abisi Dozer.
+
+407
+00:38:37,401 --> 00:38:39,820
+Arkandaki ufaklık Mouse.
+
+408
+00:38:44,158 --> 00:38:47,411
+Matrix'in ne olduğunu öğrenmek
+istiyordun, değil mi?
+
+409
+00:38:48,454 --> 00:38:49,664
+Trinity.
+
+410
+00:39:10,685 --> 00:39:12,269
+Dinlenmeye çalış.
+
+411
+00:39:17,149 --> 00:39:18,985
+Kendini tuhaf hissedeceksin.
+
+412
+00:39:22,822 --> 00:39:23,739
+DESTEK SÜRÜCÜSÜ
+
+413
+00:39:30,955 --> 00:39:32,123
+Bu...
+
+414
+00:39:32,498 --> 00:39:34,208
+...Construct.
+
+415
+00:39:34,625 --> 00:39:36,752
+Bizim yükleme programımız.
+
+416
+00:39:37,003 --> 00:39:39,463
+Herşeyi yükleyebiliriz. Giysi...
+
+417
+00:39:39,714 --> 00:39:41,090
+...donanımlar...
+
+418
+00:39:41,382 --> 00:39:42,717
+...silah...
+
+419
+00:39:43,342 --> 00:39:45,177
+...eğitim simülasyonları...
+
+420
+00:39:45,553 --> 00:39:48,097
+...ihtiyacımız olan herşeyi.
+
+421
+00:39:50,891 --> 00:39:53,310
+Evet. Şu anda bir bilgisayar
+programının içinde miyiz?
+
+422
+00:39:53,602 --> 00:39:55,521
+Buna inanmak çok mu zor?
+
+423
+00:39:56,022 --> 00:39:58,649
+Giysilerin farklı. Kolların ve
+kafandaki bağlantılar gitmiş.
+
+424
+00:39:59,859 --> 00:40:01,944
+Saçın değişmiş.
+
+425
+00:40:02,320 --> 00:40:05,656
+Şu andaki görüntün,
+"geçici bir benlik resmi."
+
+426
+00:40:06,365 --> 00:40:08,993
+Dijital benliğinin,
+zihinsel bir projeksiyonu.
+
+427
+00:40:14,874 --> 00:40:16,000
+Bu gerçek değil mi?
+
+428
+00:40:16,250 --> 00:40:17,793
+"Gerçek" nedir?
+
+429
+00:40:18,169 --> 00:40:20,421
+"Gerçeği" nasıl tanımlarsın?
+
+430
+00:40:20,713 --> 00:40:22,631
+Eğer, hissedebildiğin...
+
+431
+00:40:22,882 --> 00:40:25,301
+...koklayıp, tadıp, görebildiğin
+şeylerden söz ediyorsan...
+
+432
+00:40:25,551 --> 00:40:29,430
+..."gerçek", beyne iletilen elektrik
+sinyallerinin yorumlanmasıdır.
+
+433
+00:40:33,601 --> 00:40:36,020
+Bu, bildiğin dünya.
+
+434
+00:40:37,438 --> 00:40:40,483
+20. yüzyılın sonundaki dünya.
+
+435
+00:40:42,860 --> 00:40:47,198
+Şu anda sadece beyin etkileşimli
+bir simülasyonun parçası.
+
+436
+00:40:47,448 --> 00:40:48,699
+Buna Matrix diyoruz.
+
+437
+00:40:53,245 --> 00:40:56,082
+Bir hayal dünyasında yaşıyordun.
+
+438
+00:40:57,041 --> 00:40:58,167
+Bu, bugünkü haliyle...
+
+439
+00:40:58,459 --> 00:41:00,252
+...gerçek dünya.
+
+440
+00:41:13,265 --> 00:41:16,227
+"Gerçeğin çölüne"...
+
+441
+00:41:17,103 --> 00:41:18,688
+...hoşgeldin.
+
+442
+00:41:22,066 --> 00:41:24,443
+Çok az bilgimiz var.
+
+443
+00:41:24,694 --> 00:41:28,489
+Kesin bildiğimiz birşeye göre
+21. yüzyılın başlarında...
+
+444
+00:41:28,739 --> 00:41:31,993
+...tüm dünya bir kutlama yaptı.
+
+445
+00:41:32,243 --> 00:41:36,998
+Kendi ihtişamımızı kutluyorduk.
+YZ doğmuştu.
+
+446
+00:41:37,790 --> 00:41:38,916
+YZ.
+
+447
+00:41:39,959 --> 00:41:41,335
+Yapay Zeka yani.
+
+448
+00:41:41,585 --> 00:41:46,007
+Bir makine ırkını
+yaratan tek bir bilinç.
+
+449
+00:41:46,841 --> 00:41:50,302
+Kim önce saldırdı bilmiyoruz.
+
+450
+00:41:50,720 --> 00:41:53,931
+Ancak gökyüzünü biz yaktık.
+
+451
+00:41:55,599 --> 00:41:57,768
+O sıralar güneş ışığına bağımlıydılar.
+
+452
+00:41:58,019 --> 00:42:01,355
+Güneş kadar bol bir
+enerji kaynağı olmadan...
+
+453
+00:42:01,689 --> 00:42:05,192
+...var olamayacakları sanıldı.
+
+454
+00:42:05,443 --> 00:42:10,323
+İnsanlık tarihinde var olabilmek için
+hep makinelere güvendik.
+
+455
+00:42:11,782 --> 00:42:15,995
+Bu, kader olsa gerek.
+Bir tür kara mizah.
+
+456
+00:42:19,206 --> 00:42:23,627
+İnsan vücudu, 120 voltluk
+bir aküden, fazla biyoelektrik...
+
+457
+00:42:23,878 --> 00:42:28,007
+...ve 25 binin üzerinde
+BTU birimi ısı üretir.
+
+458
+00:42:29,925 --> 00:42:32,094
+Bir tür füzyonla birleştirildiğinde...
+
+459
+00:42:32,428 --> 00:42:37,266
+...makineler, gerekli tüm
+enerjiyi buldular.
+
+460
+00:42:41,312 --> 00:42:45,066
+Tarlalar var Neo. Sonsuz tarlalar.
+
+461
+00:42:45,316 --> 00:42:48,569
+İnsanların doğmadığı...
+
+462
+00:42:49,278 --> 00:42:51,113
+...yetiştirildiği yerler.
+
+463
+00:42:57,161 --> 00:42:59,747
+Uzun bir süre buna inanmadım.
+
+464
+00:42:59,997 --> 00:43:02,667
+Sonra tarlaları kendi gözümle gördüm.
+
+465
+00:43:04,001 --> 00:43:05,628
+Ölüleri sıvılaştırarak...
+
+466
+00:43:05,878 --> 00:43:09,215
+...yaşayanları damardan besliyorlardı.
+
+467
+00:43:09,757 --> 00:43:14,011
+Orada, olan biteni
+tüm çıplaklığıyla görünce...
+
+468
+00:43:14,261 --> 00:43:17,181
+...gerçeğin barizliğini anladım.
+
+469
+00:43:19,809 --> 00:43:21,602
+Matrix nedir?
+
+470
+00:43:22,812 --> 00:43:23,854
+Kontrol.
+
+471
+00:43:25,231 --> 00:43:28,609
+Matrix, bilgisayar tabanlı
+bir hayal dünyası.
+
+472
+00:43:29,402 --> 00:43:32,488
+Bizi kontrol etmek ve...
+
+473
+00:43:33,656 --> 00:43:36,826
+...insanoğlunu bu hale...
+
+474
+00:43:37,451 --> 00:43:38,619
+...getirmek için, kuruldu.
+
+475
+00:43:39,996 --> 00:43:41,122
+Hayır.
+
+476
+00:43:42,748 --> 00:43:44,333
+İnanmıyorum.
+
+477
+00:43:44,709 --> 00:43:45,918
+Bu imkansız.
+
+478
+00:43:46,502 --> 00:43:51,090
+Kolay olacağını söylemedim.
+Gerçeğin kendisi olacak dedim.
+
+479
+00:43:51,340 --> 00:43:52,174
+Dur!
+
+480
+00:43:53,175 --> 00:43:54,385
+Çıkar beni!
+
+481
+00:43:55,094 --> 00:43:57,013
+Çıkar beni!
+
+482
+00:43:58,973 --> 00:44:01,642
+- Sakin ol Neo. Yavaş.
+- O şeyi benden çıkar.
+
+483
+00:44:05,354 --> 00:44:06,856
+Dokunma bana.
+
+484
+00:44:07,106 --> 00:44:08,733
+Benden uzak dur.
+
+485
+00:44:09,150 --> 00:44:10,651
+İnanmıyorum.
+
+486
+00:44:11,360 --> 00:44:12,570
+İnanmıyorum.
+
+487
+00:44:12,820 --> 00:44:13,821
+İnanmıyorum.
+
+488
+00:44:14,572 --> 00:44:16,615
+- Çıldıracak.
+- Nefes al Neo.
+
+489
+00:44:17,199 --> 00:44:18,075
+Nefes al.
+
+490
+00:44:36,469 --> 00:44:38,262
+Geri dönemem, değil mi?
+
+491
+00:44:39,221 --> 00:44:40,181
+Hayır.
+
+492
+00:44:41,349 --> 00:44:42,558
+Ama yapabilsen...
+
+493
+00:44:43,392 --> 00:44:44,894
+...yapmak ister miydin?
+
+494
+00:44:47,396 --> 00:44:48,814
+Sana bir özür borçluyum.
+
+495
+00:44:49,357 --> 00:44:50,733
+Bir kuralımız var.
+
+496
+00:44:51,192 --> 00:44:54,570
+Belirli yaşa ulaşan
+zihinleri aydınlatmıyoruz.
+
+497
+00:44:54,820 --> 00:44:55,696
+Bu, tehlikeli.
+
+498
+00:44:56,405 --> 00:44:58,115
+Beyinler eski gerçeğe takılır.
+
+499
+00:44:58,366 --> 00:45:00,660
+Daha önce gördüm ve üzgünüm.
+
+500
+00:45:01,702 --> 00:45:03,788
+Bunu yaptım çünkü...
+
+501
+00:45:04,497 --> 00:45:05,956
+...mecburdum.
+
+502
+00:45:14,382 --> 00:45:18,469
+Matrix ilk kez yapıldığında
+içinde bir insan doğdu.
+
+503
+00:45:18,969 --> 00:45:22,765
+Bu adam istediğini değiştirebiliyor...
+
+504
+00:45:23,140 --> 00:45:26,060
+...ve Matrix'i yeniden
+yapılandırabiliyordu.
+
+505
+00:45:27,812 --> 00:45:31,273
+İçimizden ilk kez, birini
+özgür kılıp...
+
+506
+00:45:32,149 --> 00:45:33,776
+...bize gerçeği öğreten oydu.
+
+507
+00:45:35,236 --> 00:45:38,322
+Matrix olduğu sürece...
+
+508
+00:45:38,656 --> 00:45:40,741
+...insanoğlu asla özgür olmayacak.
+
+509
+00:45:44,954 --> 00:45:46,497
+Öldükten sonra...
+
+510
+00:45:47,248 --> 00:45:49,959
+...kehanetler O'nun döneceğini öngördü.
+
+511
+00:45:50,501 --> 00:45:53,713
+Ve Matrix'in yok
+edilmesiyle beraber, halkımıza...
+
+512
+00:45:53,963 --> 00:45:55,631
+...özgürlük gelmesinin...
+
+513
+00:45:55,965 --> 00:45:57,174
+...engellenemeyeceğini.
+
+514
+00:45:58,551 --> 00:46:03,180
+Bu yüzden hayatımız boyunca
+Matrix'i araştırıp...
+
+515
+00:46:03,514 --> 00:46:05,099
+...O'nu aradık.
+
+516
+00:46:07,518 --> 00:46:09,603
+Bunları yaptım çünkü...
+
+517
+00:46:11,230 --> 00:46:13,357
+...bence arayışım bitti.
+
+518
+00:46:18,446 --> 00:46:19,864
+Biraz dinlen.
+
+519
+00:46:20,489 --> 00:46:22,283
+İhtiyacın olacak.
+
+520
+00:46:25,202 --> 00:46:26,037
+Ne için?
+
+521
+00:46:29,290 --> 00:46:30,291
+Eğitim için.
+
+522
+00:46:48,601 --> 00:46:50,311
+Günaydın. Uyuyabildin mi?
+
+523
+00:46:51,187 --> 00:46:52,396
+Bu gece uyuyacaksın.
+
+524
+00:46:52,772 --> 00:46:54,315
+Seni temin ederim.
+
+525
+00:46:55,816 --> 00:46:57,735
+Ben Tank. Operatörün olacağım.
+
+526
+00:46:58,194 --> 00:47:00,613
+- Sende herhangi...
+- Delik mi? Hayır.
+
+527
+00:47:01,530 --> 00:47:06,243
+Ben ve kardeşim Dozer, % 100
+eski model insanlardanız.
+
+528
+00:47:06,494 --> 00:47:07,703
+Gerçek dünyada...
+
+529
+00:47:08,245 --> 00:47:09,580
+...özgür olarak doğduk.
+
+530
+00:47:09,830 --> 00:47:11,499
+Zion'un gerçek çocukları.
+
+531
+00:47:12,333 --> 00:47:14,794
+- Zion mu?
+- İki gün sonra savaş çıksa...
+
+532
+00:47:15,044 --> 00:47:16,462
+...tüm eğlence Zion'da düzenlenirdi.
+
+533
+00:47:16,962 --> 00:47:18,255
+Bir şehir mi?
+
+534
+00:47:18,506 --> 00:47:21,676
+Son insan şehri. Bize kalan son yer.
+
+535
+00:47:23,260 --> 00:47:24,512
+Nerede?
+
+536
+00:47:26,263 --> 00:47:27,264
+Yer altında...
+
+537
+00:47:27,515 --> 00:47:29,684
+...halen sıcak olan dünyanın
+merkezine yakın.
+
+538
+00:47:31,310 --> 00:47:33,187
+Ömrün yeterse görebilirsin.
+
+539
+00:47:35,439 --> 00:47:40,277
+Lanet olsun. Morpheus haklıysa...
+
+540
+00:47:40,528 --> 00:47:42,279
+...neler yapabildiğini görmek isterim.
+
+541
+00:47:42,780 --> 00:47:45,533
+Bunu konuşmamalıyız...
+
+542
+00:47:45,783 --> 00:47:47,201
+...ama sen gerçekten O'ysan...
+
+543
+00:47:48,285 --> 00:47:50,287
+...heyecanlı vakitler geçireceğiz.
+
+544
+00:47:51,330 --> 00:47:54,041
+Yapacak çok şeyimiz var. Çalışmalıyız.
+
+545
+00:47:57,962 --> 00:48:00,881
+Şimdi. Önce operasyon
+programlarıyla başlayalım.
+
+546
+00:48:01,882 --> 00:48:05,344
+Çok sıkıcı şeyler.
+
+547
+00:48:05,678 --> 00:48:07,179
+Savaş eğitimine...
+
+548
+00:48:08,723 --> 00:48:10,474
+...ne dersin?
+
+549
+00:48:16,522 --> 00:48:17,982
+"Jujitsu" mu?
+
+550
+00:48:18,858 --> 00:48:20,526
+Jujitsu mu öğreneceğim?
+
+551
+00:48:31,871 --> 00:48:33,080
+Lanet olsun.
+
+552
+00:48:33,331 --> 00:48:35,666
+Hey Mikey, galiba beğendi.
+
+553
+00:48:36,000 --> 00:48:37,293
+Biraz daha ister misin?
+
+554
+00:48:37,543 --> 00:48:38,836
+Evet.
+
+555
+00:48:41,130 --> 00:48:41,964
+Harika.
+
+556
+00:48:42,214 --> 00:48:46,260
+KEMPO TAE KWON DO
+SARHOŞ BOKSU
+
+557
+00:48:54,352 --> 00:48:55,227
+Ne durumda?
+
+558
+00:48:55,478 --> 00:48:57,688
+10 saattir bağlı. Bu adam makine gibi.
+
+559
+00:49:08,866 --> 00:49:10,242
+Kung fu biliyorum.
+
+560
+00:49:12,119 --> 00:49:12,953
+Göster.
+
+561
+00:49:14,705 --> 00:49:16,457
+Bu bir döğüş programı...
+
+562
+00:49:16,707 --> 00:49:19,502
+...Matrix'in programlanmış
+gerçeğine benziyor.
+
+563
+00:49:19,752 --> 00:49:22,088
+Aynı temel kuralları var.
+Yer çekimi gibi.
+
+564
+00:49:22,338 --> 00:49:25,800
+Bu kurallar, bir bilgisayar
+sisteminin kurallarından farksız.
+
+565
+00:49:26,342 --> 00:49:27,843
+Bazı kurallar değişebilir.
+
+566
+00:49:28,052 --> 00:49:28,886
+Bazıları da...
+
+567
+00:49:29,136 --> 00:49:30,513
+...çiğnenebilinir.
+
+568
+00:49:31,180 --> 00:49:32,139
+Anladın mı?
+
+569
+00:49:33,432 --> 00:49:34,308
+Vur bana...
+
+570
+00:49:34,850 --> 00:49:35,976
+...vurabilirsen.
+
+571
+00:50:15,558 --> 00:50:16,017
+İyi.
+
+572
+00:50:16,767 --> 00:50:17,935
+Uyum.
+
+573
+00:50:18,227 --> 00:50:19,437
+Gelişme.
+
+574
+00:50:19,729 --> 00:50:21,063
+Ancak zayıflığın...
+
+575
+00:50:21,314 --> 00:50:22,690
+...tekniğinden gelmiyor.
+
+576
+00:50:29,655 --> 00:50:31,741
+Morpheus, Neo'yla savaşıyor.
+
+577
+00:51:44,021 --> 00:51:45,189
+Seni nasıl yendim?
+
+578
+00:51:51,779 --> 00:51:52,863
+Çok hızlısın.
+
+579
+00:51:53,406 --> 00:51:54,740
+Daha hızlı...
+
+580
+00:51:55,116 --> 00:51:57,618
+...veya güçlü oluşumun...
+
+581
+00:51:57,868 --> 00:52:01,539
+...sence burada, kaslarımla bir
+ilgisi var mı dersin?
+
+582
+00:52:05,584 --> 00:52:07,378
+Hava soluduğunu mu sanıyorsun?
+
+583
+00:52:20,891 --> 00:52:22,101
+Tekrar.
+
+584
+00:52:33,571 --> 00:52:35,990
+Tanrım. Çok hızlı.
+
+585
+00:52:36,240 --> 00:52:38,451
+Nöro-kinetiğine bakın.
+Normalin çok üstünde.
+
+586
+00:52:43,914 --> 00:52:45,374
+Ne bekliyorsun?
+
+587
+00:52:45,624 --> 00:52:47,585
+Bundan daha da hızlısın.
+
+588
+00:52:49,795 --> 00:52:52,006
+Öyle olduğunu zannetme.
+
+589
+00:52:52,256 --> 00:52:53,924
+Öyle olduğunu bil.
+
+590
+00:53:04,310 --> 00:53:07,146
+Haydi, bana vurmayı
+denemeyi kes ve vur.
+
+591
+00:53:17,031 --> 00:53:18,783
+Buna inanmıyorum.
+
+592
+00:53:20,326 --> 00:53:22,453
+Ne yapmaya çalıştığını biliyorum.
+
+593
+00:53:24,121 --> 00:53:26,290
+Zihnini özgürleştirmeye çalışıyorum.
+
+594
+00:53:26,624 --> 00:53:28,709
+Ama sana sadece kapıyı gösterebilirim.
+
+595
+00:53:29,293 --> 00:53:31,212
+Kapıdan geçecek olan sensin.
+
+596
+00:53:33,506 --> 00:53:35,633
+Tank, sıçrama programını hazırla.
+
+597
+00:53:39,762 --> 00:53:40,763
+HAZIRLAMA
+
+598
+00:53:47,228 --> 00:53:49,939
+Kendini bırakmalısın Neo. Korku...
+
+599
+00:53:50,481 --> 00:53:52,650
+...şüphe ve kuşkuyu.
+
+600
+00:53:53,818 --> 00:53:56,529
+Zihnini boşalt.
+
+601
+00:54:12,712 --> 00:54:14,422
+Tamam.
+
+602
+00:54:16,507 --> 00:54:17,675
+Zihnimi boşaltayım.
+
+603
+00:54:18,259 --> 00:54:19,260
+Ya başarırsa?
+
+604
+00:54:19,510 --> 00:54:22,221
+- Kimse ilk sıçramayı yapamadı.
+- Biliyorum.
+
+605
+00:54:23,556 --> 00:54:26,017
+- Peki yaparsa?
+- Yapamaz.
+
+606
+00:54:26,851 --> 00:54:27,685
+Haydi.
+
+607
+00:54:27,935 --> 00:54:29,103
+Tamam.
+
+608
+00:54:29,562 --> 00:54:31,605
+Sorun değil. Zihnimi boşaltacağım.
+
+609
+00:54:54,587 --> 00:54:56,255
+Bu da ne demek?
+
+610
+00:54:56,630 --> 00:54:58,466
+Bir anlamı yok.
+
+611
+00:54:59,050 --> 00:55:01,635
+Herkes ilk seferinde düşer.
+
+612
+00:55:02,094 --> 00:55:03,387
+Değil mi, Trin?
+
+613
+00:55:24,075 --> 00:55:26,702
+- Gerçek değil sanmıştım?
+- Zihnin gerçekleştiriyor.
+
+614
+00:55:29,955 --> 00:55:32,208
+Matrix'de ölürsen...
+
+615
+00:55:32,583 --> 00:55:33,417
+...burada da ölüyor musun?
+
+616
+00:55:34,043 --> 00:55:36,504
+Beden, zihin olmadan yaşayamaz.
+
+617
+00:56:06,993 --> 00:56:10,371
+Bana yemek getirdiğini
+hiç hatırlamıyorum.
+
+618
+00:56:13,457 --> 00:56:16,293
+Onda birşeyler var, değil mi?
+
+619
+00:56:16,919 --> 00:56:18,546
+Ona inandığını söyleme sakın.
+
+620
+00:56:19,547 --> 00:56:20,756
+Sadece merak ediyorum...
+
+621
+00:56:21,007 --> 00:56:24,677
+...Morpheus bu kadar eminse
+neden Onu Kahin'e götürmüyor?
+
+622
+00:56:25,594 --> 00:56:28,514
+Hazır olduğunda götürecek.
+
+623
+00:56:38,316 --> 00:56:39,859
+Matrix, bir sistemdir Neo.
+
+624
+00:56:41,610 --> 00:56:42,903
+Bu sistem, düşmanımız.
+
+625
+00:56:43,529 --> 00:56:45,865
+İçeride, etrafına baktığında
+ne görüyorsun?
+
+626
+00:56:46,115 --> 00:56:49,910
+İşadamları, öğretmenler,
+avukatlar, marangozlar.
+
+627
+00:56:50,369 --> 00:56:52,955
+Kurtarmaya çalıştığımız
+insanların zihinleri.
+
+628
+00:56:53,205 --> 00:56:56,167
+Onları kurtarana dek, sistemin
+bir parçası olarak kalacaklar...
+
+629
+00:56:56,417 --> 00:56:58,336
+Bu yüzden düşmanlarımız onlar.
+
+630
+00:56:58,711 --> 00:56:59,712
+Anlamalısın...
+
+631
+00:56:59,962 --> 00:57:03,299
+...bu insanların çoğu,
+sistemden çıkmaya hazır değiller.
+
+632
+00:57:03,549 --> 00:57:05,134
+İçlerinden çoğu...
+
+633
+00:57:05,384 --> 00:57:06,552
+...sisteme o kadar umutsuzca bağlı ki...
+
+634
+00:57:06,552 --> 00:57:07,803
+...sisteme o kadar umutsuzca bağlı ki...
+
+635
+00:57:08,054 --> 00:57:10,765
+...onu korumak için savaşacaklar.
+
+636
+00:57:12,266 --> 00:57:16,020
+Beni mi dinliyordun, yoksa
+kırmızılı kadına mı bakıyordun?
+
+637
+00:57:17,021 --> 00:57:17,938
+Tekrar bak.
+
+638
+00:57:19,190 --> 00:57:20,274
+Durdur.
+
+639
+00:57:26,906 --> 00:57:28,532
+Bu, Matrix değil mi?
+
+640
+00:57:30,326 --> 00:57:34,163
+Sana birşey öğretmek için
+tasarlanmış bir program.
+
+641
+00:57:34,789 --> 00:57:37,208
+Bizden biri değilsen, onlardan birisin.
+
+642
+00:57:37,750 --> 00:57:40,544
+- Onlar ne?
+- Duyusal programlar.
+
+643
+00:57:41,295 --> 00:57:45,591
+Sisteme bağlı kalarak her türlü
+yazılıma girip, çıkabilirler.
+
+644
+00:57:45,966 --> 00:57:49,345
+Sistemden çıkarmadığımız herkes...
+
+645
+00:57:49,679 --> 00:57:51,013
+...potansiyel bir ajandır.
+
+646
+00:57:51,972 --> 00:57:53,808
+Matrix'in içinde...
+
+647
+00:57:54,392 --> 00:57:56,102
+...neredeyse herkes bir ajan...
+
+648
+00:57:56,435 --> 00:57:58,145
+...ya da değil.
+
+649
+00:57:58,396 --> 00:58:01,524
+Onlardan saklanarak ve
+kaçarak hayatta kaldık...
+
+650
+00:58:01,774 --> 00:58:03,401
+...ama onlar kapı bekçileri.
+
+651
+00:58:03,651 --> 00:58:06,612
+Tüm kapıları tutmuşlar.
+Anahtarlar onlarda.
+
+652
+00:58:06,862 --> 00:58:09,699
+Er ya da geç, birisinin onlarla
+savaşması gerekecek.
+
+653
+00:58:10,074 --> 00:58:11,075
+Birisi mi?
+
+654
+00:58:11,409 --> 00:58:12,827
+Sana yalan söylemeyeceğim.
+
+655
+00:58:13,285 --> 00:58:18,124
+Bir ajana karşı gelip, onunla
+savaşan herkes, canından oldu.
+
+656
+00:58:18,374 --> 00:58:20,751
+Onların yapamadıklarını sen yapacaksın.
+
+657
+00:58:21,168 --> 00:58:22,003
+Neden?
+
+658
+00:58:22,253 --> 00:58:24,547
+Bir duvarın içinden yumruk
+atan ajanlar gördüm.
+
+659
+00:58:24,797 --> 00:58:28,384
+İnsanlar onlara bir şarjör boşalttı;
+ancak sadece havayı vurdular.
+
+660
+00:58:28,634 --> 00:58:33,264
+Güçleri ve hızları,
+kurallara dayalı bu dünyaya bağlı.
+
+661
+00:58:33,514 --> 00:58:34,640
+Bu yüzden...
+
+662
+00:58:34,890 --> 00:58:38,269
+...senin kadar hızlı ve güçlü olamazlar.
+
+663
+00:58:42,565 --> 00:58:44,442
+Ne söylemeye çalışıyorsun?
+
+664
+00:58:45,151 --> 00:58:46,610
+Kurşunları tutabileceğimi mi?
+
+665
+00:58:48,612 --> 00:58:49,989
+Hayır Neo.
+
+666
+00:58:50,489 --> 00:58:53,409
+Demek istediğim şu: Hazır olduğunda...
+
+667
+00:58:54,285 --> 00:58:55,661
+...buna gerek kalmayacak.
+
+668
+00:59:00,166 --> 00:59:01,000
+<i>Bir sorun var.</i>
+
+669
+00:59:19,894 --> 00:59:21,270
+Uyarıyı Zion mu yolladı?
+
+670
+00:59:21,520 --> 00:59:22,355
+Hayır, başka bir gemi.
+
+671
+00:59:25,608 --> 00:59:26,901
+Lanet olsun.
+
+672
+00:59:27,151 --> 00:59:28,903
+Squiddy, hızlı arama yapıyor.
+
+673
+00:59:29,195 --> 00:59:30,029
+Squiddy mi?
+
+674
+00:59:30,237 --> 00:59:33,449
+Bir gözcü. Tek amaç için
+yaratılmış katil bir makina.
+
+675
+00:59:36,243 --> 00:59:37,411
+Hemen şuraya in.
+
+676
+00:59:59,225 --> 01:00:00,184
+Nasıl gidiyor Tank?
+
+677
+01:00:08,901 --> 01:00:10,069
+Güç kesildi.
+
+678
+01:00:10,569 --> 01:00:12,571
+EMD açıldı...
+
+679
+01:00:13,072 --> 01:00:14,615
+...ve hazır.
+
+680
+01:00:14,907 --> 01:00:16,784
+Elektromanyetik darbe.
+
+681
+01:00:17,034 --> 01:00:19,912
+Patlama bölgesindeki
+elektrik sistemlerini etkisizleştirir.
+
+682
+01:00:20,162 --> 01:00:22,373
+Makinelere karşı tek silahımız.
+
+683
+01:00:28,170 --> 01:00:29,005
+Neredeyiz?
+
+684
+01:00:29,255 --> 01:00:31,298
+Eski hizmet ve atık sisteminde.
+
+685
+01:00:32,842 --> 01:00:33,676
+Lağım mı?
+
+686
+01:00:33,884 --> 01:00:36,595
+Yüzlerce mil uzunluğunda
+şehirler vardı.
+
+687
+01:00:37,096 --> 01:00:39,015
+Geriye sadece bu lağımlar kaldı.
+
+688
+01:00:39,265 --> 01:00:40,599
+Sus.
+
+689
+01:01:24,435 --> 01:01:26,604
+Beni çok korkuttun.
+
+690
+01:01:27,688 --> 01:01:29,607
+- Üzgünüm.
+- Tamam.
+
+691
+01:01:32,526 --> 01:01:33,361
+Bu...
+
+692
+01:01:33,611 --> 01:01:35,196
+...Matrix mi?
+
+693
+01:01:38,366 --> 01:01:41,535
+- Hep şifreli mi bakıyorsun?
+- Evet.
+
+694
+01:01:41,786 --> 01:01:44,872
+Görüntü çeviriciler, kurma
+programında çalışıyor.
+
+695
+01:01:45,122 --> 01:01:48,542
+Matrix, şifresi çözülemeyecek
+kadar çok bilgi içeriyor.
+
+696
+01:01:48,793 --> 01:01:51,754
+Buna alışırsın.
+Ben şifreyi görmüyorum bile.
+
+697
+01:01:52,004 --> 01:01:55,424
+Tek gördüğüm,
+sarışın, kumral ve esmerler.
+
+698
+01:01:56,592 --> 01:01:57,968
+İçki...
+
+699
+01:01:58,260 --> 01:01:59,345
+...ister misin?
+
+700
+01:02:04,183 --> 01:02:05,643
+Biliyor musun...
+
+701
+01:02:06,560 --> 01:02:08,104
+...ne düşündüğünü biliyorum.
+
+702
+01:02:08,354 --> 01:02:10,481
+Şu anda aynı şeyi düşünüyorum.
+
+703
+01:02:10,773 --> 01:02:14,110
+Buraya geldiğimden beri
+bunu hep düşünüp durdum.
+
+704
+01:02:16,028 --> 01:02:19,031
+Neden mavi hapı almadım?
+
+705
+01:02:31,419 --> 01:02:33,337
+İyi, değil mi?
+
+706
+01:02:33,671 --> 01:02:34,880
+Dozer yaptı.
+
+707
+01:02:35,339 --> 01:02:36,507
+İki işe yarıyor:
+
+708
+01:02:36,757 --> 01:02:39,844
+Motorları düşürür ve
+beyin hücrelerini öldürür.
+
+709
+01:02:40,845 --> 01:02:43,055
+Birşey sorabilir miyim?
+
+710
+01:02:46,058 --> 01:02:47,685
+Neden yaptığını söyledi mi?
+
+711
+01:02:50,313 --> 01:02:52,148
+Neden buradasın?
+
+712
+01:02:55,818 --> 01:02:57,570
+Tanrım.
+
+713
+01:02:58,779 --> 01:03:00,698
+Ne büyük bir iş.
+
+714
+01:03:02,116 --> 01:03:04,910
+Dünyayı kurtarmaya geldin demek.
+
+715
+01:03:06,412 --> 01:03:08,497
+Böyle bir şeye ne denir?
+
+716
+01:03:13,669 --> 01:03:15,046
+Sana bir öneri.
+
+717
+01:03:16,839 --> 01:03:18,257
+Bir ajan gördüğünde...
+
+718
+01:03:18,591 --> 01:03:20,885
+...bizim yaptığımızı yap:
+
+719
+01:03:21,218 --> 01:03:22,762
+Kaç.
+
+720
+01:03:23,095 --> 01:03:24,847
+En hızlı şekilde.
+
+721
+01:03:32,104 --> 01:03:33,814
+İçki için sağol.
+
+722
+01:03:38,527 --> 01:03:39,695
+Tatlı rüyalar.
+
+723
+01:03:43,699 --> 01:03:47,119
+Anlaştık mı Bay Reagan?
+
+724
+01:03:47,787 --> 01:03:48,913
+Biliyor musunuz...
+
+725
+01:03:50,331 --> 01:03:52,792
+...bu biftein var olmadığını biliyorum.
+
+726
+01:03:53,793 --> 01:03:56,545
+Bunu ağzıma koyduğumda...
+
+727
+01:03:56,796 --> 01:03:59,882
+...Matrix'in beynime bunun...
+
+728
+01:04:00,174 --> 01:04:01,300
+...sulu ve...
+
+729
+01:04:01,592 --> 01:04:03,302
+...lezzetli olduğunu
+söylediğini biliyorum.
+
+730
+01:04:06,222 --> 01:04:07,473
+9 yılın ardından...
+
+731
+01:04:08,516 --> 01:04:10,059
+...ne fark ettim biliyor musunuz?
+
+732
+01:04:17,900 --> 01:04:19,110
+Cehalet erdemdir.
+
+733
+01:04:24,156 --> 01:04:25,992
+Anlaştık.
+
+734
+01:04:28,494 --> 01:04:30,413
+Hiçbir şey hatırlamak istemiyorum.
+
+735
+01:04:30,663 --> 01:04:31,497
+Hiçbir şey.
+
+736
+01:04:32,039 --> 01:04:33,207
+Anladın mı?
+
+737
+01:04:37,253 --> 01:04:39,046
+Zengin olmak istiyorum.
+
+738
+01:04:40,381 --> 01:04:43,092
+Yani önemli biri.
+
+739
+01:04:44,593 --> 01:04:45,720
+Bir aktör gibi.
+
+740
+01:04:46,929 --> 01:04:50,057
+Ne isterseniz Bay Reagan.
+
+741
+01:04:52,226 --> 01:04:53,769
+Tamam.
+
+742
+01:04:54,145 --> 01:04:56,564
+Bedenimi bir santrale götürün...
+
+743
+01:04:56,939 --> 01:04:58,691
+...Matrix'e yeniden dahil edin...
+
+744
+01:04:59,025 --> 01:05:00,443
+...size istediğinizi vereyim.
+
+745
+01:05:00,693 --> 01:05:02,695
+Zion anabilgisayarına giriş kodları.
+
+746
+01:05:02,945 --> 01:05:05,114
+Onları bilmediğimi söyledim.
+
+747
+01:05:08,075 --> 01:05:10,077
+Ama bilen adamı getiririm.
+
+748
+01:05:10,828 --> 01:05:12,621
+Morpheus.
+
+749
+01:05:22,715 --> 01:05:26,177
+Haydi dostum.
+Şampiyonların kahvaltısı.
+
+750
+01:05:27,511 --> 01:05:30,306
+Gözlerini kapatırsan, yumurta
+yediğin izlenimine kapılırsın.
+
+751
+01:05:30,556 --> 01:05:31,390
+Ya da bir tabak sümük.
+
+752
+01:05:36,187 --> 01:05:38,522
+Leziz buğday. Hiç leziz
+buğday yedin mi?
+
+753
+01:05:39,148 --> 01:05:40,858
+Hayır ama aslında sen de yemedin.
+
+754
+01:05:41,108 --> 01:05:43,152
+Demek istediğim de bu.
+
+755
+01:05:43,402 --> 01:05:44,779
+Makinelerin, leziz buğdayın...
+
+756
+01:05:45,029 --> 01:05:48,282
+...tadını nereden
+bildiğini merak ediyorsundur.
+
+757
+01:05:48,532 --> 01:05:49,950
+Belki yanlış yaptılar.
+
+758
+01:05:50,201 --> 01:05:53,412
+Belki Leziz Buğday'ın tadı...
+
+759
+01:05:53,704 --> 01:05:55,706
+...yulaf ezmesi ya da
+ton balığı gibiydi.
+
+760
+01:05:56,082 --> 01:05:58,918
+Bu durumda insanın aklına
+çok şey takılıyor. Örneğin tavuk.
+
+761
+01:05:59,168 --> 01:06:01,170
+Belki tavuğun tadına karar
+veremediler...
+
+762
+01:06:01,420 --> 01:06:03,464
+...bu yüzden tavuk etinde
+herşeyin tadı var.
+
+763
+01:06:03,714 --> 01:06:05,508
+- Belki de...
+- Kapa çeneni.
+
+764
+01:06:07,134 --> 01:06:08,594
+Yediğimiz şey sentetik aminoasitler...
+
+765
+01:06:08,844 --> 01:06:11,889
+...vitaminler ve minerallerle
+birleştirilmiş tek hücreli bir protein.
+
+766
+01:06:12,139 --> 01:06:13,391
+Vücudun ihtiyacı olan herşey.
+
+767
+01:06:13,641 --> 01:06:16,519
+Vücudun ihtiyacı olan herşey yok.
+
+768
+01:06:19,271 --> 01:06:22,358
+Ajan eğitim programını aldın galiba.
+
+769
+01:06:23,401 --> 01:06:25,444
+O programı ben yazmıştım.
+
+770
+01:06:25,736 --> 01:06:27,029
+İşte başlıyor.
+
+771
+01:06:27,279 --> 01:06:29,240
+- Sence nasıl biri?
+- Kim?
+
+772
+01:06:29,615 --> 01:06:32,660
+Kırmızılı kadın. Onu ben hazırladım.
+
+773
+01:06:32,994 --> 01:06:35,746
+Pek konuşmuyor ama...
+
+774
+01:06:35,997 --> 01:06:39,959
+...Onunla tanışmak istersen,
+birşeyler ayarlarım.
+
+775
+01:06:40,209 --> 01:06:41,585
+Dijital pezevenk işbaşında.
+
+776
+01:06:41,836 --> 01:06:44,088
+Bu kuşkucuları boşver Neo.
+
+777
+01:06:45,381 --> 01:06:47,216
+Dürtülerini inkar etmek...
+
+778
+01:06:47,466 --> 01:06:50,594
+...bizi insan yapan şeyleri
+inkar etmektir.
+
+779
+01:06:52,513 --> 01:06:53,889
+Dozer, işin bittiğinde...
+
+780
+01:06:54,140 --> 01:06:55,558
+...gemiyi yayın derinliğine çıkar.
+
+781
+01:06:56,267 --> 01:06:57,601
+Matrix'e gireceğiz.
+
+782
+01:06:58,311 --> 01:06:59,729
+Neo'yu O'nu görmeye götürüyorum.
+
+783
+01:07:04,066 --> 01:07:04,900
+Kimi?
+
+784
+01:07:05,901 --> 01:07:07,153
+Kahin'i.
+
+785
+01:07:12,658 --> 01:07:14,201
+Herkes lütfen...
+
+786
+01:07:14,535 --> 01:07:17,246
+...kemerinizi bağlayın ve
+sigara içilmez levhalarına uyun.
+
+787
+01:07:17,747 --> 01:07:21,125
+Arkanıza yaslanın ve
+uçuşun keyfini çıkarın.
+
+788
+01:07:45,650 --> 01:07:46,484
+Girdik.
+
+789
+01:08:02,208 --> 01:08:03,334
+Bir saat içinde döneriz.
+
+790
+01:08:18,140 --> 01:08:19,558
+İnanılmaz...
+
+791
+01:08:20,393 --> 01:08:21,727
+...değil mi?
+
+792
+01:08:25,314 --> 01:08:27,149
+- Tanrım.
+- Ne?
+
+793
+01:08:27,817 --> 01:08:29,193
+Orada yemek yerdim.
+
+794
+01:08:31,445 --> 01:08:33,072
+Harika makarna yaparlar.
+
+795
+01:08:37,868 --> 01:08:40,371
+Hayatımla ilgili anılarım var.
+
+796
+01:08:42,832 --> 01:08:44,500
+Hiçbiri olmamış.
+
+797
+01:08:45,543 --> 01:08:46,460
+Bu da ne demek?
+
+798
+01:08:46,711 --> 01:08:48,921
+Matrix, sana kim olduğunu söyleyemez.
+
+799
+01:08:49,839 --> 01:08:51,048
+Ama kehanet söyleyebilir.
+
+800
+01:08:51,507 --> 01:08:52,717
+Bu farklı.
+
+801
+01:08:57,805 --> 01:08:58,681
+Ona gittin mi?
+
+802
+01:09:00,224 --> 01:09:01,392
+Evet.
+
+803
+01:09:01,892 --> 01:09:03,269
+Sana ne dedi?
+
+804
+01:09:06,522 --> 01:09:08,024
+Dedi ki...
+
+805
+01:09:09,066 --> 01:09:10,234
+Ne?
+
+806
+01:09:14,030 --> 01:09:15,364
+Geldik.
+
+807
+01:09:16,615 --> 01:09:18,034
+Benimle gel.
+
+808
+01:09:38,012 --> 01:09:40,681
+Bu, kehanette bulunan...
+
+809
+01:09:41,015 --> 01:09:41,849
+...kahin mi?
+
+810
+01:09:42,099 --> 01:09:46,437
+Evet, çok yaşlıdır.
+Başından beri bizimle.
+
+811
+01:09:46,896 --> 01:09:47,730
+Başından beri mi?
+
+812
+01:09:47,938 --> 01:09:48,898
+Direnişin.
+
+813
+01:09:51,150 --> 01:09:53,527
+Herşeyi biliyor mu?
+
+814
+01:09:55,571 --> 01:09:57,490
+Yeteri kadar bildiğini söyler.
+
+815
+01:09:58,616 --> 01:10:00,409
+O halde asla yanılmıyor.
+
+816
+01:10:02,620 --> 01:10:05,790
+Doğru ve yanlışı baz alarak düşünme.
+
+817
+01:10:06,123 --> 01:10:07,708
+O bir rehber.
+
+818
+01:10:08,084 --> 01:10:09,960
+Yolu bulmana yardım edebilir.
+
+819
+01:10:10,753 --> 01:10:11,712
+Sana yardım etti mi?
+
+820
+01:10:14,215 --> 01:10:15,549
+Sana ne dedi?
+
+821
+01:10:18,010 --> 01:10:20,221
+O'nu bulacağımı.
+
+822
+01:10:33,359 --> 01:10:35,486
+Sana sadece kapıyı
+gösterebileceğimi söyledim.
+
+823
+01:10:36,195 --> 01:10:38,280
+Oradan geçmelisin.
+
+824
+01:10:42,076 --> 01:10:43,160
+Merhaba Neo.
+
+825
+01:10:43,411 --> 01:10:45,079
+Tam zamanında geldin.
+
+826
+01:10:53,004 --> 01:10:56,799
+Rahatına bak Morpheus.
+Neo, gel benimle.
+
+827
+01:11:02,471 --> 01:11:04,056
+Bunlar, diğer kudretliler.
+
+828
+01:11:04,307 --> 01:11:05,850
+Burada bekle.
+
+829
+01:11:46,682 --> 01:11:49,226
+Kaşığı eğmeyi deneme.
+
+830
+01:11:49,602 --> 01:11:51,729
+Bu imkansız.
+
+831
+01:11:52,563 --> 01:11:56,567
+Gerçeği algılamaya çalış.
+
+832
+01:11:57,109 --> 01:11:58,486
+Ne gerçeği?
+
+833
+01:12:02,990 --> 01:12:04,325
+Kaşık yok mu?
+
+834
+01:12:04,575 --> 01:12:09,080
+O zaman eğilenin kaşık değil,
+kendin olduğunu anlarsın.
+
+835
+01:12:25,096 --> 01:12:26,597
+Kahin sizi görecek.
+
+836
+01:12:37,274 --> 01:12:38,818
+Neo olduğunu biliyorum.
+
+837
+01:12:39,443 --> 01:12:40,611
+Hemen geliyorum.
+
+838
+01:12:41,654 --> 01:12:42,655
+Kahin sen misin?
+
+839
+01:12:43,030 --> 01:12:44,031
+Bildin.
+
+840
+01:12:46,742 --> 01:12:49,620
+Beklediğin gibi biri değilim, değil mi?
+
+841
+01:12:50,663 --> 01:12:52,832
+Neredeyse bitti.
+
+842
+01:12:55,334 --> 01:12:56,961
+Güzel kokuyor, değil mi?
+
+843
+01:12:59,714 --> 01:13:01,549
+Oturmanı isterdim ama...
+
+844
+01:13:01,799 --> 01:13:04,176
+...nasılsa oturmayacaksın.
+
+845
+01:13:04,677 --> 01:13:06,512
+Vazoyu boşver.
+
+846
+01:13:06,721 --> 01:13:07,555
+Ne vazosu?
+
+847
+01:13:10,683 --> 01:13:11,851
+Bu vazo.
+
+848
+01:13:12,810 --> 01:13:13,853
+Üzgünüm.
+
+849
+01:13:14,103 --> 01:13:15,980
+Boşver dedim.
+
+850
+01:13:17,148 --> 01:13:19,108
+Çocuklarımdan biri toparlar.
+
+851
+01:13:19,734 --> 01:13:20,943
+Nereden bildin?
+
+852
+01:13:22,987 --> 01:13:26,782
+Senin kafanı karıştıracak
+olan soru şu:
+
+853
+01:13:27,116 --> 01:13:30,077
+...Ben söylemesem yine de
+vazoyu kırar mıydın?
+
+854
+01:13:34,874 --> 01:13:36,792
+Düşündüğümden de tatlısın.
+
+855
+01:13:39,837 --> 01:13:42,089
+Seni neden sevdiğini anlıyorum.
+
+856
+01:13:42,965 --> 01:13:44,050
+Kim?
+
+857
+01:13:44,300 --> 01:13:46,135
+Pek zeki değilsin.
+
+858
+01:13:49,430 --> 01:13:52,516
+Morpheus'un seni bana neden
+getirdiğini biliyorsun.
+
+859
+01:13:54,644 --> 01:13:55,811
+Eee...
+
+860
+01:13:56,771 --> 01:13:58,147
+...ne düşünüyorsun?
+
+861
+01:13:59,982 --> 01:14:01,734
+Sence O musun?
+
+862
+01:14:03,694 --> 01:14:04,737
+Aslında, bilmiyorum.
+
+863
+01:14:08,157 --> 01:14:09,575
+Bunun anlamını biliyor musun?
+
+864
+01:14:10,409 --> 01:14:11,577
+Latince.
+
+865
+01:14:11,952 --> 01:14:14,163
+Anlamı "Kendini tanı."
+
+866
+01:14:15,623 --> 01:14:17,583
+Sana küçük bir sır vereceğim.
+
+867
+01:14:19,835 --> 01:14:23,673
+O kişi olmak, aşık olmak gibidir.
+
+868
+01:14:24,382 --> 01:14:27,259
+Kimse sana aşık
+olduğunu anlatamaz. Sen bilirsin...
+
+869
+01:14:27,510 --> 01:14:28,636
+...herşeyinle.
+
+870
+01:14:28,970 --> 01:14:31,013
+Tüm bedeninle.
+
+871
+01:14:33,557 --> 01:14:34,392
+Neyse...
+
+872
+01:14:36,352 --> 01:14:38,437
+...sana bakayım.
+
+873
+01:14:39,772 --> 01:14:41,273
+Ağzını aç. Aa de.
+
+874
+01:14:55,663 --> 01:14:57,331
+Tamam...
+
+875
+01:14:57,957 --> 01:15:02,920
+...şimdi şunu demeliyim:
+"Çok ilginç ama"...
+
+876
+01:15:03,421 --> 01:15:04,547
+Sen de şunu diyeceksin:
+
+877
+01:15:05,423 --> 01:15:06,424
+"Ama ne?"
+
+878
+01:15:06,674 --> 01:15:10,636
+Ne diyeceğimi biliyorsun.
+
+879
+01:15:12,054 --> 01:15:13,055
+O, ben değilim.
+
+880
+01:15:13,306 --> 01:15:15,016
+Üzgünüm.
+
+881
+01:15:16,642 --> 01:15:18,644
+Yeteneğin var...
+
+882
+01:15:19,645 --> 01:15:21,856
+...ama birşey bekliyor gibisin.
+
+883
+01:15:26,736 --> 01:15:27,570
+Ne?
+
+884
+01:15:27,778 --> 01:15:30,698
+Belki bir sonraki hayatını. Kim bilir?
+
+885
+01:15:31,282 --> 01:15:33,534
+Bu işler böyle.
+
+886
+01:15:34,410 --> 01:15:35,286
+Komik olan ne?
+
+887
+01:15:35,661 --> 01:15:36,996
+Morpheus.
+
+888
+01:15:40,458 --> 01:15:42,168
+Beni neredeyse ikna etti.
+
+889
+01:15:42,418 --> 01:15:43,544
+Biliyorum.
+
+890
+01:15:45,087 --> 01:15:47,214
+Zavallı Morpheus.
+
+891
+01:15:49,592 --> 01:15:52,720
+Onsuz mahvoluruz.
+
+892
+01:15:54,263 --> 01:15:56,432
+"Onsuz" ne demek?
+
+893
+01:16:00,436 --> 01:16:02,355
+Bunu duymak istediğinden emin misin?
+
+894
+01:16:04,565 --> 01:16:07,318
+Morpheus sana inanıyor.
+
+895
+01:16:09,028 --> 01:16:11,197
+Kimse, ne sen, ne de ben...
+
+896
+01:16:11,447 --> 01:16:13,699
+...tersini ona kabul ettiremeyiz.
+
+897
+01:16:14,075 --> 01:16:16,452
+Sana o kadar inanıyor ki...
+
+898
+01:16:16,744 --> 01:16:21,082
+...seni kurtarmak için
+kendi hayatını feda edecek.
+
+899
+01:16:21,332 --> 01:16:22,166
+Ne?
+
+900
+01:16:22,375 --> 01:16:25,294
+Bir seçim yapman gerekecek.
+
+901
+01:16:25,920 --> 01:16:29,507
+Bir tarafta Morpheus'un hayatı.
+
+902
+01:16:30,007 --> 01:16:32,885
+Diğer tarafta kendi hayatın.
+
+903
+01:16:34,303 --> 01:16:36,597
+Biriniz ölecek.
+
+904
+01:16:38,683 --> 01:16:41,978
+Kimin öleceği sana bağlı.
+
+905
+01:16:43,354 --> 01:16:45,272
+Üzgünüm evlat. Gerçekten.
+
+906
+01:16:45,523 --> 01:16:47,191
+İyi bir ruhun var.
+
+907
+01:16:48,275 --> 01:16:50,987
+İnsanlara kötü haberler
+vermekten nefret ederim.
+
+908
+01:16:54,115 --> 01:16:55,574
+Merak etme.
+
+909
+01:16:55,825 --> 01:16:58,244
+Bu kapıdan çıktığın anda...
+
+910
+01:16:58,494 --> 01:17:00,621
+...kendini iyi hissedeceksin.
+
+911
+01:17:01,330 --> 01:17:05,126
+Bu kader oyununa falan
+inanmadığını hatırlayacaksın.
+
+912
+01:17:05,960 --> 01:17:08,713
+Hayatının kontrolü sende.
+
+913
+01:17:09,547 --> 01:17:10,840
+Hatırladın mı?
+
+914
+01:17:15,594 --> 01:17:17,138
+Bir kurabiye al.
+
+915
+01:17:17,680 --> 01:17:21,017
+Yediğinde...
+
+916
+01:17:21,976 --> 01:17:24,353
+...kendini yağmur kadar
+hafif hissedeceksin.
+
+917
+01:17:33,571 --> 01:17:34,905
+Denilenler...
+
+918
+01:17:35,531 --> 01:17:36,991
+...senin içindi...
+
+919
+01:17:37,533 --> 01:17:39,368
+...sadece senin için.
+
+920
+01:17:52,089 --> 01:17:53,799
+Kırmızılı Kadın
+
+921
+01:18:02,308 --> 01:18:03,434
+Yoldalar.
+
+922
+01:18:33,422 --> 01:18:34,256
+Bu da ne?
+
+923
+01:18:49,021 --> 01:18:50,439
+Hey. Deja vu.
+
+924
+01:18:53,943 --> 01:18:55,027
+Ne dedin?
+
+925
+01:18:55,277 --> 01:18:56,779
+Hiç, sadece küçük bir deja vu yaşadım.
+
+926
+01:18:57,029 --> 01:18:58,656
+- Ne gördün?
+- Ne oldu?
+
+927
+01:19:00,074 --> 01:19:02,243
+Yanımızdan siyah bir kedi geçti...
+
+928
+01:19:02,493 --> 01:19:04,120
+...sonra ona benzeyen biri daha geçti.
+
+929
+01:19:04,370 --> 01:19:05,913
+Ne kadar benziyordu? Aynı kedi miydi?
+
+930
+01:19:14,171 --> 01:19:15,006
+Ne oldu?
+
+931
+01:19:15,256 --> 01:19:19,677
+Bir deja vu, Matrix'de bir kaymadır.
+Birşeyi değiştirdiklerinde olur.
+
+932
+01:19:23,055 --> 01:19:23,889
+Aman Tanrım.
+
+933
+01:19:25,725 --> 01:19:26,684
+Gidelim.
+
+934
+01:19:31,939 --> 01:19:33,691
+Hattı kestiler. Bu bir tuzak. Çıkın.
+
+935
+01:19:39,613 --> 01:19:40,448
+Hayır.
+
+936
+01:20:20,738 --> 01:20:23,199
+Değiştirdikleri şey işte bu.
+Kapana kısıldık. Çıkış yolumuz yok.
+
+937
+01:20:23,449 --> 01:20:25,326
+Sakin ol. Telefonunu ver.
+
+938
+01:20:25,576 --> 01:20:27,119
+İzleyebilecekler.
+
+939
+01:20:27,370 --> 01:20:28,788
+Başka seçeneğimiz yok.
+
+940
+01:20:30,206 --> 01:20:31,415
+Operatör.
+
+941
+01:20:31,749 --> 01:20:34,585
+<i>Bize bu binanın
+planlarını bul. Çabuk.</i>
+
+942
+01:20:42,426 --> 01:20:45,012
+<i>- Buldum.
+- Büyük su borularını bul.</i>
+
+943
+01:20:48,265 --> 01:20:49,100
+Sekizinci kat.
+
+944
+01:20:49,308 --> 01:20:50,893
+<i>Sekizinci kattalar.</i>
+
+945
+01:20:51,185 --> 01:20:52,645
+Switch, önümüzde.
+
+946
+01:21:00,695 --> 01:21:02,947
+Umarım Kahin,
+sana iyi haberler vermiştir.
+
+947
+01:21:11,122 --> 01:21:12,623
+<i>Şimdi sola. Bu kadar.</i>
+
+948
+01:21:12,915 --> 01:21:13,958
+İyi.
+
+949
+01:21:23,676 --> 01:21:24,969
+Neredeler?
+
+950
+01:22:25,404 --> 01:22:26,572
+Duvarlarda.
+
+951
+01:22:28,032 --> 01:22:29,200
+Duvarlarda!
+
+952
+01:22:50,596 --> 01:22:51,430
+Bir ajan!
+
+953
+01:23:01,232 --> 01:23:02,233
+Neo'yu çıkarmalıyız.
+
+954
+01:23:04,694 --> 01:23:05,903
+Hayır, Morpheus, yapma.
+
+955
+01:23:06,153 --> 01:23:06,988
+Trinity, git!
+
+956
+01:23:07,863 --> 01:23:09,240
+Haydi!
+
+957
+01:23:15,454 --> 01:23:17,373
+- Onu bırakamayız.
+- Mecburuz.
+
+958
+01:23:42,648 --> 01:23:43,482
+Haydi.
+
+959
+01:23:48,821 --> 01:23:50,614
+Büyük Morpheus.
+Sonunda karşılaştık.
+
+960
+01:23:52,783 --> 01:23:53,909
+Siz kimsiniz?
+
+961
+01:23:54,160 --> 01:23:55,911
+Smith.
+
+962
+01:23:56,162 --> 01:23:57,455
+Ajan Smith.
+
+963
+01:23:58,039 --> 01:24:00,082
+Bana göre hepiniz birsiniz.
+
+964
+01:24:55,721 --> 01:24:57,014
+Alın onu.
+
+965
+01:25:10,236 --> 01:25:12,071
+<i>- Santral.
+- Hemen bir çıkış bulmalıyım.</i>
+
+966
+01:25:14,156 --> 01:25:17,076
+Bir kaza oldu.
+Lanet olası bir trafik kazası.
+
+967
+01:25:17,410 --> 01:25:19,203
+<i>Aniden, güm.</i>
+
+968
+01:25:19,453 --> 01:25:20,830
+Yukarıda birileri, hala beni seviyor.
+
+969
+01:25:21,080 --> 01:25:22,331
+Seni buldum.
+
+970
+01:25:22,832 --> 01:25:24,750
+<i>Beni buradan çıkar. Hemen.</i>
+
+971
+01:25:25,001 --> 01:25:27,670
+En yakın çıkış, Franklin ve Erie
+kavşağı. Eski bir TV tamircisi.
+
+972
+01:25:27,920 --> 01:25:28,963
+Tamam.
+
+973
+01:25:32,091 --> 01:25:33,676
+<i>- Santral.
+- Tank, benim.</i>
+
+974
+01:25:33,926 --> 01:25:35,094
+Morpheus yaşıyor mu?
+
+975
+01:25:35,469 --> 01:25:36,762
+Morpheus yaşıyor mu, Tank?
+
+976
+01:25:37,179 --> 01:25:39,098
+<i>Evet. Onu götürüyorlar.
+Nereye, bilmiyorum.</i>
+
+977
+01:25:39,307 --> 01:25:41,600
+Yaşıyor. Bir çıkış gerek.
+
+978
+01:25:41,851 --> 01:25:42,768
+Cypher'den uzak değilsin.
+
+979
+01:25:43,019 --> 01:25:44,353
+<i>- Cypher mı?
+- Biliyorum.</i>
+
+980
+01:25:44,603 --> 01:25:46,689
+<i>- Onu, Franklin ve Erie'ye gönderdim.
+- Tamam.</i>
+
+981
+01:25:55,781 --> 01:25:56,991
+Bulduk.
+
+982
+01:26:07,918 --> 01:26:08,961
+Neredeler?
+
+983
+01:26:09,211 --> 01:26:10,463
+Arıyorum.
+
+984
+01:26:11,130 --> 01:26:12,298
+Tamam.
+
+985
+01:26:25,853 --> 01:26:26,687
+Sen ilksin.
+
+986
+01:26:29,857 --> 01:26:30,691
+Lanet olsun.
+
+987
+01:26:39,784 --> 01:26:41,952
+Bilmiyorum, birden kesildi.
+
+988
+01:27:08,771 --> 01:27:09,981
+<i>Merhaba Trinity.</i>
+
+989
+01:27:10,398 --> 01:27:11,732
+Cypher, Tank nerede?
+
+990
+01:27:17,321 --> 01:27:18,364
+Biliyor musun...
+
+991
+01:27:20,074 --> 01:27:22,201
+...uzun bir süre...
+
+992
+01:27:23,411 --> 01:27:26,330
+...sana aşık olduğumu sandım.
+
+993
+01:27:27,081 --> 01:27:29,125
+<i>Seni hayal ediyordum.</i>
+
+994
+01:27:30,209 --> 01:27:32,920
+Çok güzel bir kadınsın Trinity.
+
+995
+01:27:33,170 --> 01:27:35,548
+<i>İşlerin bu hal alması çok kötü.</i>
+
+996
+01:27:36,299 --> 01:27:37,133
+Onları öldürdün.
+
+997
+01:27:37,633 --> 01:27:39,135
+Ne?
+
+998
+01:27:39,385 --> 01:27:40,803
+Yoruldum Trinity.
+
+999
+01:27:42,221 --> 01:27:44,098
+Bu savaştan yoruldum...
+
+1000
+01:27:44,390 --> 01:27:47,226
+...savaşmaktan, bu gemiden...
+
+1001
+01:27:47,560 --> 01:27:52,189
+...üşümekten ve her gün
+aynı şeyi yemekten.
+
+1002
+01:27:54,608 --> 01:27:55,526
+Ama en çok da...
+
+1003
+01:27:56,110 --> 01:27:59,488
+<i>... o salaktan ve
+saçmalıklarından sıkıldım.</i>
+
+1004
+01:28:00,614 --> 01:28:01,907
+Sürpriz, budala!
+
+1005
+01:28:02,450 --> 01:28:04,660
+Bunun olacağını tahmin
+etmediğinden eminim...
+
+1006
+01:28:04,910 --> 01:28:05,953
+...öyle değil mi?
+
+1007
+01:28:08,247 --> 01:28:10,624
+Tanrım, keşke seni
+konuşturduklarında...
+
+1008
+01:28:11,208 --> 01:28:12,710
+...orada olsaydım.
+
+1009
+01:28:13,753 --> 01:28:16,922
+Konuştuğunda keşke içeri girebilsem.
+
+1010
+01:28:17,632 --> 01:28:19,342
+Bu durumda...
+
+1011
+01:28:19,592 --> 01:28:20,926
+...benim olduğumu bilirdin.
+
+1012
+01:28:21,636 --> 01:28:22,595
+Onlara Morpheus'u verdin.
+
+1013
+01:28:22,845 --> 01:28:24,305
+<i>Bize yalan söyledi Trinity.</i>
+
+1014
+01:28:24,889 --> 01:28:26,390
+Bizi aldattı.
+
+1015
+01:28:26,932 --> 01:28:28,934
+Bize gerçeği söyleseydin...
+
+1016
+01:28:29,185 --> 01:28:32,063
+...kırmızı hapı kıçına sok derdik.
+
+1017
+01:28:32,313 --> 01:28:34,440
+Bu doğru değil. Bizi özgür bıraktı.
+
+1018
+01:28:34,690 --> 01:28:35,608
+<i>"Özgür" mü?</i>
+
+1019
+01:28:35,858 --> 01:28:37,568
+Buna özgürlük mü diyorsun?
+
+1020
+01:28:39,987 --> 01:28:42,490
+Tek yaptığım, onun dediklerini yapmak.
+
+1021
+01:28:44,075 --> 01:28:46,994
+Bu yaşam ile Matrix arasında
+seçim yapmam gerekse...
+
+1022
+01:28:48,162 --> 01:28:49,372
+...Matrix'i seçerdim.
+
+1023
+01:28:49,622 --> 01:28:51,290
+Matrix gerçek değil.
+
+1024
+01:28:53,209 --> 01:28:55,461
+Bence Matrix...
+
+1025
+01:28:55,795 --> 01:28:58,381
+...bu dünyadan daha da gerçek olabilir.
+
+1026
+01:29:00,549 --> 01:29:03,052
+Burada sadece fişi çekeceğim...
+
+1027
+01:29:03,636 --> 01:29:04,637
+...ama orada...
+
+1028
+01:29:05,179 --> 01:29:07,473
+<i>... Apoc'un ölmesini göreceksin.</i>
+
+1029
+01:29:15,231 --> 01:29:16,941
+<i>Gerçek dünyaya hoşgeldin.</i>
+
+1030
+01:29:17,274 --> 01:29:18,192
+Ama sen dışarıdasın.
+
+1031
+01:29:18,442 --> 01:29:20,861
+<i>- Geri dönemezsin.
+- Sen öyle san.</i>
+
+1032
+01:29:21,112 --> 01:29:22,613
+<i>Beni tekrar vücuduma koyacaklar.</i>
+
+1033
+01:29:22,863 --> 01:29:26,492
+<i>Uyuyacağım ve uyandığımda
+birşey hatırlamayacağım.</i>
+
+1034
+01:29:26,742 --> 01:29:27,743
+Bu arada...
+
+1035
+01:29:27,994 --> 01:29:30,955
+...Switch'e söylemek
+istediğin birşey varsa...
+
+1036
+01:29:31,455 --> 01:29:32,540
+<i>... hemen söylemelisin.</i>
+
+1037
+01:29:32,790 --> 01:29:33,666
+Hayır, lütfen yapma.
+
+1038
+01:29:34,208 --> 01:29:35,835
+Böyle olmamalı.
+
+1039
+01:29:37,545 --> 01:29:39,171
+Böyle olmamalı.
+
+1040
+01:29:43,634 --> 01:29:44,677
+Çok geç.
+
+1041
+01:29:45,052 --> 01:29:46,721
+Canın cehenneme.
+
+1042
+01:29:46,971 --> 01:29:48,848
+Benden nefret etme.
+
+1043
+01:29:49,223 --> 01:29:51,100
+Ben sadece elçiyim.
+
+1044
+01:29:51,517 --> 01:29:54,687
+Şu anda bunu sana kanıtlayacağım.
+
+1045
+01:29:55,771 --> 01:29:57,440
+Morpheus haklıysa...
+
+1046
+01:29:57,982 --> 01:29:59,859
+...bu fişi çekemiyor olmam gerekir.
+
+1047
+01:30:00,443 --> 01:30:01,944
+<i>Yani, seçkin kişi Neo'ysa...</i>
+
+1048
+01:30:02,445 --> 01:30:04,280
+<i>... beni durdurmak için...</i>
+
+1049
+01:30:04,530 --> 01:30:07,116
+...bir mucize olmalı.
+
+1050
+01:30:07,616 --> 01:30:08,492
+Değil mi?
+
+1051
+01:30:09,118 --> 01:30:12,455
+Yani ölüyse eğer,
+nasıl seçkin kişi olabilir?
+
+1052
+01:30:13,831 --> 01:30:16,083
+<i>Morpheus'a inanıp
+inanmadığını sorduğumda...</i>
+
+1053
+01:30:16,375 --> 01:30:18,711
+<i>... bana hiç yanıt vermemiştin.</i>
+
+1054
+01:30:19,086 --> 01:30:22,298
+Haydi. Evet ya da hayır.
+
+1055
+01:30:23,674 --> 01:30:26,010
+Gözlerine bak...
+
+1056
+01:30:26,761 --> 01:30:28,262
+<i>Büyük, güzel gözlerine...</i>
+
+1057
+01:30:31,015 --> 01:30:32,350
+...ve söyle bana...
+
+1058
+01:30:33,059 --> 01:30:34,352
+<i>... evet mi?</i>
+
+1059
+01:30:34,644 --> 01:30:36,020
+<i>... hayır mı?</i>
+
+1060
+01:30:37,313 --> 01:30:38,439
+Evet.
+
+1061
+01:30:39,273 --> 01:30:40,191
+İnanmıyorum.
+
+1062
+01:30:41,609 --> 01:30:46,364
+İster inan ister inanma,
+yine de yanacaksın.
+
+1063
+01:31:05,049 --> 01:31:06,008
+Önce sen.
+
+1064
+01:31:14,225 --> 01:31:15,101
+Yaralısın.
+
+1065
+01:31:15,434 --> 01:31:16,519
+Bir şeyim yok.
+
+1066
+01:31:19,313 --> 01:31:20,481
+Dozer?
+
+1067
+01:31:42,003 --> 01:31:45,131
+Hiç şöyle bir durup güzelliği...
+
+1068
+01:31:45,506 --> 01:31:47,758
+...ve dehasına hayran kaldı mı?
+
+1069
+01:31:48,926 --> 01:31:50,803
+Milyarlarca insan...
+
+1070
+01:31:51,053 --> 01:31:53,806
+...hayatını yaşamaya devam ediyor.
+
+1071
+01:32:01,105 --> 01:32:03,983
+İlk Matrix'in, kimsenin acı çekmediği...
+
+1072
+01:32:04,233 --> 01:32:08,946
+...ve mutlu olduğu
+mükemmel bir dünya için...
+
+1073
+01:32:09,405 --> 01:32:12,325
+...yapıldığını biliyor muydun?
+
+1074
+01:32:12,867 --> 01:32:14,368
+Tam bir felaketti.
+
+1075
+01:32:14,618 --> 01:32:18,956
+Kimse programı kabul etmedi.
+Tüm ekinler öldü.
+
+1076
+01:32:19,832 --> 01:32:21,584
+Bazıları, mükemmel dünyayı...
+
+1077
+01:32:21,834 --> 01:32:26,213
+...tanımlayacak programlama
+dilinin olmadığını söyledi.
+
+1078
+01:32:26,464 --> 01:32:28,007
+Ancak bana göre...
+
+1079
+01:32:28,424 --> 01:32:29,342
+...bir ırk olarak...
+
+1080
+01:32:29,592 --> 01:32:33,429
+...insanoğlu kendi
+gerçekliğini, sefalet ve...
+
+1081
+01:32:33,679 --> 01:32:35,056
+...acıyla tanımlıyor.
+
+1082
+01:32:35,306 --> 01:32:38,017
+Bu yüzden mükemmel dünya...
+
+1083
+01:32:38,267 --> 01:32:43,105
+...ilkel beynimizin, uyanmaya
+çalıştığı bir rüyadı.
+
+1084
+01:32:44,440 --> 01:32:48,110
+Bu yüzden Matrix, bu
+hale dönüştürüldü.
+
+1085
+01:32:48,569 --> 01:32:50,071
+Medeniyetinizin...
+
+1086
+01:32:50,321 --> 01:32:51,739
+...zirvesi.
+
+1087
+01:32:51,989 --> 01:32:54,241
+"Sizin medeniyetiniz" diyorum.
+
+1088
+01:32:54,492 --> 01:32:58,621
+Sizin yerinize düşünmeye başladığımız
+anda bizim medeniyetimiz oldu.
+
+1089
+01:32:58,871 --> 01:33:01,957
+Herşey burada düğümleniyor zaten.
+
+1090
+01:33:03,292 --> 01:33:05,878
+Evrim, Morpheus.
+
+1091
+01:33:06,170 --> 01:33:07,505
+Evrim.
+
+1092
+01:33:09,799 --> 01:33:11,676
+Dinozorlar gibi.
+
+1093
+01:33:13,844 --> 01:33:15,471
+Camdan dışarı bak.
+
+1094
+01:33:16,180 --> 01:33:18,307
+Sıranızı savdınız.
+
+1095
+01:33:19,016 --> 01:33:22,937
+Gelecek, bizim dünyamız.
+
+1096
+01:33:23,270 --> 01:33:25,648
+Gelecek bizim dünyamız.
+
+1097
+01:33:29,902 --> 01:33:31,028
+Bir sorun olabilir.
+
+1098
+01:33:31,988 --> 01:33:35,366
+- Ona ne yapıyorlar?
+- Direncini kırıyorlar.
+
+1099
+01:33:35,616 --> 01:33:37,785
+Bilgisayar sistemini kırmak gibi.
+Zaman gerekiyor.
+
+1100
+01:33:38,035 --> 01:33:39,245
+Ne kadar zaman?
+
+1101
+01:33:39,495 --> 01:33:42,623
+Kişiye bağlı.
+Sonunda teslim olur ve...
+
+1102
+01:33:42,873 --> 01:33:47,295
+...alfa dalgaları ondan buna dönüşür.
+
+1103
+01:33:47,545 --> 01:33:50,506
+Bu olduğunda, Morpheus onlara
+bilmek istediklerini söyleyecek.
+
+1104
+01:33:50,756 --> 01:33:51,799
+Ne istiyorlar?
+
+1105
+01:33:52,049 --> 01:33:56,095
+Her geminin liderine, Zion'un
+ana bilgisayarının şifresi verilir.
+
+1106
+01:33:56,345 --> 01:33:59,265
+Bir ajan şifreyi ele geçirir ve
+ana bilgisayara ulaşırsa...
+
+1107
+01:33:59,515 --> 01:34:02,601
+...bizi yok edebilirler.
+Buna izin veremeyiz.
+
+1108
+01:34:03,436 --> 01:34:05,021
+Zion...
+
+1109
+01:34:05,271 --> 01:34:06,188
+...senden, benden...
+
+1110
+01:34:06,522 --> 01:34:07,815
+...ve hatta Morpheus'dan daha önemli.
+
+1111
+01:34:11,610 --> 01:34:13,279
+Yapabileceğimiz birşey olmalı.
+
+1112
+01:34:13,696 --> 01:34:15,698
+Var. Fişini çekmeliyiz.
+
+1113
+01:34:18,784 --> 01:34:20,536
+Onu öldürecek misiniz?
+
+1114
+01:34:20,786 --> 01:34:21,954
+Morpheus'ı öldürmek mi?
+
+1115
+01:34:22,580 --> 01:34:24,206
+Başka seçeneğimiz yok.
+
+1116
+01:34:31,005 --> 01:34:33,924
+Bir makinenin işini yapmaya
+bir insanı gönderme.
+
+1117
+01:34:34,175 --> 01:34:35,926
+Muhbirimiz başarısız olduysa...
+
+1118
+01:34:36,177 --> 01:34:39,388
+...en kısa sürede bağlantıyı
+koparacaklardır...
+
+1119
+01:34:39,639 --> 01:34:41,349
+Ölmezlerse tabii.
+
+1120
+01:34:41,599 --> 01:34:45,144
+Planladığımız gibi devam etmemiz
+gerekiyor. Sentinelleri gönderin.
+
+1121
+01:34:45,394 --> 01:34:46,479
+Hemen.
+
+1122
+01:34:51,734 --> 01:34:54,403
+Morpheus, sen bizim için
+bir liderden fazlasıydın.
+
+1123
+01:34:55,363 --> 01:34:57,573
+Bizim için bir babaydın.
+
+1124
+01:34:59,116 --> 01:35:01,077
+Seni özleyeceğiz.
+
+1125
+01:35:08,167 --> 01:35:09,168
+Durun!
+
+1126
+01:35:10,378 --> 01:35:11,587
+Bunun olduğuna inanamıyorum.
+
+1127
+01:35:11,837 --> 01:35:13,881
+- Neo, bu olmak zorunda.
+- Öyle mi?
+
+1128
+01:35:14,674 --> 01:35:16,050
+Bilmiyorum.
+
+1129
+01:35:16,384 --> 01:35:17,927
+Bir tesadüf olamaz. Olamaz.
+
+1130
+01:35:18,135 --> 01:35:18,970
+Ne?
+
+1131
+01:35:19,470 --> 01:35:20,304
+Kahin...
+
+1132
+01:35:20,554 --> 01:35:22,348
+...bunun olacağını söylemişti.
+
+1133
+01:35:22,765 --> 01:35:26,936
+Dedi ki bir seçim
+yapmam gerekecekmiş.
+
+1134
+01:35:27,395 --> 01:35:28,646
+Ne seçimi?
+
+1135
+01:35:32,900 --> 01:35:34,110
+Matrix'e giriyorum.
+
+1136
+01:35:34,443 --> 01:35:35,695
+Hayır.
+
+1137
+01:35:35,945 --> 01:35:36,779
+Mecburum.
+
+1138
+01:35:36,988 --> 01:35:40,616
+Morpheus biz çıkalım diye
+kendini kurban etti.
+
+1139
+01:35:40,866 --> 01:35:42,785
+Geri dönmene imkan yok.
+
+1140
+01:35:43,369 --> 01:35:46,622
+Morpheus, olmadığım birşeye
+inandığı için böyle yaptı.
+
+1141
+01:35:49,875 --> 01:35:51,502
+Ben O değilim Trinity.
+
+1142
+01:35:51,877 --> 01:35:54,839
+- Kahin bana bunları söyledi.
+- Hayır, sen olmalısın.
+
+1143
+01:35:55,089 --> 01:35:57,758
+Üzgünüm. Değilim. Sıradan biriyim.
+
+1144
+01:35:58,426 --> 01:35:59,677
+Hayır Neo. Bu doğru değil.
+
+1145
+01:36:00,261 --> 01:36:01,595
+Doğru olamaz.
+
+1146
+01:36:01,929 --> 01:36:02,888
+Neden?
+
+1147
+01:36:07,310 --> 01:36:10,646
+Bu delilik. Morpheus askeri bir binada.
+
+1148
+01:36:10,896 --> 01:36:15,276
+İçeriye girsen bile, O'nu tutan
+ajanlar var. Hemde 3 tane.
+
+1149
+01:36:16,569 --> 01:36:20,489
+Ben de Morpheus'u istiyorum
+ama bu bir intihar.
+
+1150
+01:36:20,740 --> 01:36:22,366
+Neye benzediğini biliyorum...
+
+1151
+01:36:22,616 --> 01:36:23,534
+...ama öyle değil.
+
+1152
+01:36:23,784 --> 01:36:26,162
+Nedenini açıklayamam.
+
+1153
+01:36:27,246 --> 01:36:30,958
+Morpheus birşeye inanıyordu.
+Bunun için hayatını vermeye hazırdı.
+
+1154
+01:36:31,208 --> 01:36:34,211
+Şimdi anlıyorum. Bu yüzden gitmeliyim.
+
+1155
+01:36:34,462 --> 01:36:35,296
+Neden?
+
+1156
+01:36:35,546 --> 01:36:37,006
+Çünkü birşeye inanıyorum.
+
+1157
+01:36:37,214 --> 01:36:38,049
+Neye?
+
+1158
+01:36:39,508 --> 01:36:41,218
+Onu geri getirebileceğime.
+
+1159
+01:36:58,194 --> 01:37:00,112
+- Ne yapıyorsun?
+- Seninle geliyorum.
+
+1160
+01:37:00,404 --> 01:37:01,280
+Hayır.
+
+1161
+01:37:01,530 --> 01:37:02,406
+"Hayır" mı?
+
+1162
+01:37:03,574 --> 01:37:05,701
+Neye inandığımı söyleyeyim.
+
+1163
+01:37:06,202 --> 01:37:08,579
+Morpheus senin için önemli olabilir
+ama benim için daha önemli.
+
+1164
+01:37:08,913 --> 01:37:13,209
+Onu kurtarmakta ciddiysen,
+yardımıma ihtiyacın olacak.
+
+1165
+01:37:13,459 --> 01:37:15,503
+Gemideki en üst rütbeli subay benim.
+
+1166
+01:37:15,753 --> 01:37:18,631
+Bunu beğenmiyorsan
+cehenneme kadar yolun var.
+
+1167
+01:37:19,382 --> 01:37:21,801
+Çünkü başka bir yere gitmeyeceksin.
+
+1168
+01:37:22,218 --> 01:37:23,052
+Tank...
+
+1169
+01:37:23,928 --> 01:37:25,096
+...bizi yükle.
+
+1170
+01:37:34,689 --> 01:37:37,984
+Burada bulunduğum sürede
+fark ettiğim birşeyi...
+
+1171
+01:37:38,401 --> 01:37:39,944
+...paylaşmak isterim.
+
+1172
+01:37:40,194 --> 01:37:44,198
+Türünüzü sınıflandırmaya çalışırken...
+
+1173
+01:37:44,448 --> 01:37:46,701
+...fark ettim.
+
+1174
+01:37:46,951 --> 01:37:49,245
+Aslında memeli değilsiniz.
+
+1175
+01:37:51,455 --> 01:37:53,916
+Bu gezegendeki tüm memeliler...
+
+1176
+01:37:54,250 --> 01:37:59,171
+...etraflarındaki çevreyle
+doğal bir uyuma sahiptir.
+
+1177
+01:37:59,422 --> 01:38:01,257
+Siz insanlar değilsiniz.
+
+1178
+01:38:01,799 --> 01:38:05,344
+Bir bölgeye taşınır ve çoğalırsınız.
+
+1179
+01:38:05,594 --> 01:38:10,099
+Tüm kaynaklar tüketilene dek.
+
+1180
+01:38:10,433 --> 01:38:12,518
+Hayatta kalmanızın tek yolu...
+
+1181
+01:38:12,810 --> 01:38:15,771
+...başka bölgelere yayılmaktır.
+
+1182
+01:38:21,193 --> 01:38:24,071
+Aynı yayılma prensibini uygulayan bir...
+
+1183
+01:38:24,322 --> 01:38:26,282
+...organizma daha var.
+
+1184
+01:38:28,951 --> 01:38:30,786
+Virüsler.
+
+1185
+01:38:32,121 --> 01:38:35,166
+İnsanlar, hastalıktır.
+
+1186
+01:38:35,541 --> 01:38:37,084
+Bu gezegenin kanseri.
+
+1187
+01:38:37,335 --> 01:38:39,462
+Siz bir salgınsınız.
+
+1188
+01:38:40,004 --> 01:38:41,005
+Biz de...
+
+1189
+01:38:41,589 --> 01:38:42,965
+...tedavisiyiz.
+
+1190
+01:38:43,966 --> 01:38:45,384
+Neye ihtiyacımız var?
+
+1191
+01:38:46,010 --> 01:38:47,136
+Bir mucize dışında.
+
+1192
+01:38:47,720 --> 01:38:48,929
+Silaha.
+
+1193
+01:38:49,972 --> 01:38:50,973
+Binlerce silaha.
+
+1194
+01:39:03,819 --> 01:39:06,364
+Daha önce bunu kimse yapmadı.
+
+1195
+01:39:07,573 --> 01:39:09,492
+Bu yüzden işe yarayacak.
+
+1196
+01:39:13,579 --> 01:39:15,539
+Serum neden işe yaramıyor.
+
+1197
+01:39:16,123 --> 01:39:18,417
+Belki yanlış soruları soruyoruz.
+
+1198
+01:39:20,503 --> 01:39:21,754
+Beni onunla yalnız bırakın.
+
+1199
+01:39:24,340 --> 01:39:25,466
+Şimdi.
+
+1200
+01:39:36,686 --> 01:39:38,270
+Dayan Morpheus.
+
+1201
+01:39:38,521 --> 01:39:41,232
+Senin için geliyorlar. Geliyorlar.
+
+1202
+01:39:43,609 --> 01:39:45,736
+Beni duyuyor musun?
+
+1203
+01:39:45,987 --> 01:39:48,656
+Sana karşı...
+
+1204
+01:39:49,031 --> 01:39:50,241
+...dürüst olacağım.
+
+1205
+01:39:54,620 --> 01:39:56,038
+Ben...
+
+1206
+01:39:57,123 --> 01:39:58,040
+...buradan...
+
+1207
+01:39:58,290 --> 01:40:00,251
+...nefret ediyorum.
+
+1208
+01:40:00,584 --> 01:40:02,878
+Bu hayvanat bahçesinden...
+
+1209
+01:40:03,129 --> 01:40:04,255
+...bu hapishaneden...
+
+1210
+01:40:04,505 --> 01:40:07,675
+...bu gerçeklikten, ya da
+her ne diyorsanız.
+
+1211
+01:40:07,925 --> 01:40:10,219
+Artık dayanamayacağım.
+
+1212
+01:40:10,970 --> 01:40:12,847
+En çok da koku.
+
+1213
+01:40:14,223 --> 01:40:16,100
+Böyle birşey varsa.
+
+1214
+01:40:16,434 --> 01:40:19,729
+Bunu fazlasıyla hissediyorum.
+
+1215
+01:40:21,230 --> 01:40:22,523
+İğrenç...
+
+1216
+01:40:22,773 --> 01:40:23,649
+...kokunuzu...
+
+1217
+01:40:24,483 --> 01:40:26,527
+...alabiliyorum.
+
+1218
+01:40:26,777 --> 01:40:30,531
+Her seferinde bunun bana
+bulaşmış olmasından korkuyorum.
+
+1219
+01:40:30,781 --> 01:40:31,615
+Çok itici.
+
+1220
+01:40:32,575 --> 01:40:33,951
+Değil mi?
+
+1221
+01:40:36,120 --> 01:40:38,414
+Buradan gitmeliyim.
+
+1222
+01:40:38,831 --> 01:40:41,042
+Özgür olmalıyım.
+
+1223
+01:40:41,292 --> 01:40:44,170
+Bunun anahtarı bu zihinde.
+
+1224
+01:40:44,420 --> 01:40:46,088
+Benim anahtarım.
+
+1225
+01:40:46,339 --> 01:40:49,216
+Zion yok edilince
+burada kalmama gerek kalmayacak.
+
+1226
+01:40:49,467 --> 01:40:51,093
+Anlıyor musun?
+
+1227
+01:40:51,385 --> 01:40:52,762
+Şifrelere ihtiyacım var.
+
+1228
+01:40:53,012 --> 01:40:55,348
+Zion'a girmeliyim.
+
+1229
+01:40:55,681 --> 01:40:58,184
+Nasıl yapacağımı söylemelisin.
+
+1230
+01:40:58,601 --> 01:41:00,478
+Bana söyleyeceksin...
+
+1231
+01:41:00,728 --> 01:41:02,897
+...ya da öleceksin.
+
+1232
+01:41:23,084 --> 01:41:24,835
+Üzerinizdeki metal eşyaları
+çıkartır mısınız?
+
+1233
+01:41:24,835 --> 01:41:26,212
+Üzerinizdeki metal eşyaları
+çıkartır mısınız?
+
+1234
+01:41:30,132 --> 01:41:31,175
+Lanet olsun.
+
+1235
+01:41:43,270 --> 01:41:44,105
+Destek.
+
+1236
+01:41:44,397 --> 01:41:45,982
+Destek gönderin.
+
+1237
+01:42:10,006 --> 01:42:10,923
+Dur!
+
+1238
+01:44:25,975 --> 01:44:26,976
+Ne yapıyordun?
+
+1239
+01:44:28,811 --> 01:44:30,062
+Bilmiyor.
+
+1240
+01:44:30,354 --> 01:44:31,856
+Neyi bilmiyor?
+
+1241
+01:44:45,953 --> 01:44:47,496
+ACİL FREN
+
+1242
+01:44:59,925 --> 01:45:02,386
+Onu kurtarmaya çalışıyorlar galiba.
+
+1243
+01:45:17,276 --> 01:45:19,028
+Kaşık yok.
+
+1244
+01:45:48,641 --> 01:45:50,768
+Onları bulup, yok edin.
+
+1245
+01:45:52,436 --> 01:45:53,354
+Saldırı altındayız.
+
+1246
+01:46:28,306 --> 01:46:29,140
+İmdat!
+
+1247
+01:46:51,162 --> 01:46:52,330
+Sadece insan.
+
+1248
+01:46:53,456 --> 01:46:54,373
+Al bakalım.
+
+1249
+01:47:07,637 --> 01:47:09,180
+- Bunu nasıl yaptın?
+- Neyi?
+
+1250
+01:47:09,555 --> 01:47:13,434
+Onlar gibi hareket ettin. Kimsenin bu
+kadar hızlı hareket ettiğini görmedim.
+
+1251
+01:47:14,602 --> 01:47:15,978
+Yeterince hızlı değildi.
+
+1252
+01:47:18,731 --> 01:47:19,982
+Bunu uçurabilir misin?
+
+1253
+01:47:21,359 --> 01:47:22,193
+Henüz değil.
+
+1254
+01:47:25,655 --> 01:47:26,489
+Santral.
+
+1255
+01:47:26,697 --> 01:47:29,867
+<i>B- 212 helikopteri için
+pilot programı gerekiyor.</i>
+
+1256
+01:47:30,326 --> 01:47:31,577
+<i>Çabuk.</i>
+
+1257
+01:47:39,543 --> 01:47:41,170
+Gidelim.
+
+1258
+01:47:56,268 --> 01:47:57,311
+Hayır.
+
+1259
+01:48:48,946 --> 01:48:50,489
+Morpheus, kalk.
+
+1260
+01:48:50,740 --> 01:48:51,574
+Kalk. Kalk.
+
+1261
+01:49:29,612 --> 01:49:30,613
+Başaramayacak.
+
+1262
+01:49:40,456 --> 01:49:41,457
+Yakaladım.
+
+1263
+01:51:30,358 --> 01:51:31,776
+Biliyordum.
+
+1264
+01:51:32,610 --> 01:51:33,611
+Seçkin kişi O.
+
+1265
+01:51:49,585 --> 01:51:51,796
+Buna inanıyor musun artık?
+
+1266
+01:51:57,718 --> 01:51:58,594
+Kahin.
+
+1267
+01:51:59,845 --> 01:52:02,223
+Bana demişti ki...
+
+1268
+01:52:02,598 --> 01:52:04,183
+...duyman gerekenleri söyledi.
+
+1269
+01:52:04,475 --> 01:52:05,810
+O kadar.
+
+1270
+01:52:06,852 --> 01:52:09,814
+Neo, er ya da geç bunu fark
+edeceksin. Tıpkı benim gibi.
+
+1271
+01:52:10,147 --> 01:52:12,441
+Yolu bilmekle, yolda gitmek arasında...
+
+1272
+01:52:13,192 --> 01:52:14,485
+...bir fark vardır.
+
+1273
+01:52:17,530 --> 01:52:18,739
+Operatör.
+
+1274
+01:52:19,657 --> 01:52:22,201
+<i>- Sesini duymak çok güzel.
+- Çıkış bulmalıyız.</i>
+
+1275
+01:52:22,451 --> 01:52:25,246
+Bir tane buldum. Metro istasyonu.
+State ve Balboa.
+
+1276
+01:52:38,301 --> 01:52:39,260
+Lanet olsun.
+
+1277
+01:52:39,510 --> 01:52:40,720
+İzleme tamamlandı.
+
+1278
+01:52:40,970 --> 01:52:41,887
+Yerlerini bulduk.
+
+1279
+01:52:42,305 --> 01:52:44,557
+Sentineller bekliyor.
+
+1280
+01:52:46,267 --> 01:52:47,768
+Saldırsınlar.
+
+1281
+01:52:54,317 --> 01:52:55,443
+Henüz çıkmadılar.
+
+1282
+01:53:07,496 --> 01:53:08,831
+Önce sen, Morpheus.
+
+1283
+01:53:29,518 --> 01:53:31,812
+Neo, sana birşey söylemeliyim...
+
+1284
+01:53:35,066 --> 01:53:39,028
+...ama söylersem,
+neler olacağını bilmiyorum.
+
+1285
+01:53:42,615 --> 01:53:45,910
+Kahin'in söylediği herşey çıktı.
+
+1286
+01:53:48,663 --> 01:53:50,206
+Bir şey dışında.
+
+1287
+01:53:51,916 --> 01:53:52,750
+Nedir?
+
+1288
+01:54:19,068 --> 01:54:20,695
+- Neler oldu?
+- Bir ajan.
+
+1289
+01:54:20,945 --> 01:54:21,779
+Beni geri yolla.
+
+1290
+01:54:22,029 --> 01:54:22,905
+Yapamam.
+
+1291
+01:54:24,907 --> 01:54:26,909
+Bay Anderson.
+
+1292
+01:54:29,078 --> 01:54:30,454
+Kaç Neo, kaç.
+
+1293
+01:54:35,751 --> 01:54:37,378
+Ne yapıyor?
+
+1294
+01:54:37,628 --> 01:54:38,879
+İnanmaya başlıyor.
+
+1295
+01:55:05,865 --> 01:55:06,615
+Kurşunların bitti.
+
+1296
+01:55:06,615 --> 01:55:07,241
+Kurşunların bitti.
+
+1297
+01:55:07,825 --> 01:55:09,118
+Senin de.
+
+1298
+01:55:42,276 --> 01:55:45,279
+Ölmenizi zevkle izleyeceğim...
+
+1299
+01:55:46,405 --> 01:55:47,448
+...Bay Anderson.
+
+1300
+01:56:28,406 --> 01:56:30,491
+Onu öldürüyor.
+
+1301
+01:57:56,661 --> 01:57:58,788
+Duydun mu Bay Anderson?
+
+1302
+01:57:59,538 --> 01:58:02,541
+Bu kaçınılmaz olanın sesi.
+
+1303
+01:58:05,127 --> 01:58:08,464
+Bu da ölümünün sesi.
+
+1304
+01:58:09,382 --> 01:58:11,717
+Elveda Bay Anderson.
+
+1305
+01:58:11,968 --> 01:58:13,594
+Adım...
+
+1306
+01:58:16,597 --> 01:58:18,641
+...Neo.
+
+1307
+01:58:50,881 --> 01:58:53,009
+- Ne oldu?
+- Bilmiyorum, Onu kaybettim.
+
+1308
+01:58:53,259 --> 01:58:54,802
+YAKINLIK UYARISI
+
+1309
+01:58:55,594 --> 01:58:56,637
+Lanet olsun.
+
+1310
+01:59:09,025 --> 01:59:10,484
+Sentineller.
+
+1311
+01:59:11,235 --> 01:59:13,487
+- Ne kadar?
+- 5, belki 6 dakika.
+
+1312
+01:59:15,531 --> 01:59:17,700
+Tank, EMD'yi yükle.
+
+1313
+01:59:17,950 --> 01:59:20,995
+- Çıkana kadar kullanamayız.
+- Biliyorum Trinity. Merak etme.
+
+1314
+01:59:22,371 --> 01:59:23,247
+Başaracak.
+
+1315
+01:59:23,497 --> 01:59:25,374
+Düz mü? Topuklu mu?
+
+1316
+01:59:25,625 --> 01:59:28,502
+Neler oluyor? O benim telefonum.
+
+1317
+01:59:28,919 --> 01:59:30,504
+Herif telefonumu aldı.
+
+1318
+01:59:32,882 --> 01:59:33,716
+Yerini buldum.
+
+1319
+01:59:33,966 --> 01:59:35,176
+Kaçıyor.
+
+1320
+01:59:35,426 --> 01:59:36,260
+<i>Bay Büyücü...</i>
+
+1321
+01:59:36,719 --> 01:59:38,095
+...çıkar beni buradan.
+
+1322
+01:59:38,346 --> 01:59:40,222
+<i>Eski bir çıkışı buldu.
+Wabash ve Lake.</i>
+
+1323
+01:59:44,268 --> 01:59:45,102
+Lanet olsun.
+
+1324
+02:00:06,749 --> 02:00:08,751
+İmdat. Yardıma ihtiyacım var.
+
+1325
+02:00:10,378 --> 02:00:11,587
+<i>Kapı.</i>
+
+1326
+02:00:27,561 --> 02:00:29,063
+<i>Solundaki kapı.</i>
+
+1327
+02:00:29,981 --> 02:00:31,232
+<i>Diğer solun.</i>
+
+1328
+02:00:37,947 --> 02:00:39,198
+<i>Arka kapı.</i>
+
+1329
+02:00:58,426 --> 02:00:59,510
+KIRMIZI ALARM
+
+1330
+02:01:02,763 --> 02:01:04,265
+Geliyorlar.
+
+1331
+02:01:33,044 --> 02:01:34,295
+Başaracak.
+
+1332
+02:01:44,513 --> 02:01:47,642
+<i>303 numaralı odanın
+sonundaki yangın çıkışı. Çabuk.</i>
+
+1333
+02:02:20,132 --> 02:02:21,467
+KAÇAK YOLCU
+
+1334
+02:02:22,969 --> 02:02:23,844
+İçerdeler.
+
+1335
+02:02:26,389 --> 02:02:27,223
+Çabuk Neo.
+
+1336
+02:03:23,571 --> 02:03:24,572
+Bu olamaz.
+
+1337
+02:03:32,371 --> 02:03:33,748
+Kontrol et.
+
+1338
+02:03:37,752 --> 02:03:39,295
+Öldü.
+
+1339
+02:03:46,010 --> 02:03:48,429
+Elveda, Bay Anderson.
+
+1340
+02:03:58,522 --> 02:04:00,483
+Artık korkmuyorum.
+
+1341
+02:04:02,109 --> 02:04:03,361
+Kahine göre...
+
+1342
+02:04:05,529 --> 02:04:09,033
+...aşık olacağım. Seçkin
+kişi de, sevdiğim adammış.
+
+1343
+02:04:12,161 --> 02:04:14,121
+Gördüğün gibi...
+
+1344
+02:04:14,830 --> 02:04:16,832
+...ölmüş olamazsın.
+
+1345
+02:04:18,417 --> 02:04:20,252
+Olamazsın...
+
+1346
+02:04:21,796 --> 02:04:23,965
+...çünkü seni seviyorum.
+
+1347
+02:04:25,800 --> 02:04:27,510
+Duydun mu?
+
+1348
+02:04:28,636 --> 02:04:30,304
+Seni seviyorum.
+
+1349
+02:04:54,245 --> 02:04:55,329
+Şimdi kalk.
+
+1350
+02:05:04,338 --> 02:05:05,172
+Hayır.
+
+1351
+02:05:32,116 --> 02:05:32,950
+Nasıl?
+
+1352
+02:05:33,826 --> 02:05:34,869
+O, seçkin kişi.
+
+1353
+02:07:59,347 --> 02:08:01,057
+<i>Orada olduğunuzu biliyorum.</i>
+
+1354
+02:08:01,307 --> 02:08:03,142
+<i>Sizi hissediyorum.</i>
+
+1355
+02:08:03,559 --> 02:08:05,353
+<i>Korktuğunuzu biliyorum.</i>
+
+1356
+02:08:05,603 --> 02:08:07,188
+<i>Bizden korkuyorsunuz.</i>
+
+1357
+02:08:07,521 --> 02:08:09,357
+<i>Değişimden.</i>
+
+1358
+02:08:09,607 --> 02:08:12,068
+<i>- SİSTEM HATASI
+- Geleceği bilmiyorum.</i>
+
+1359
+02:08:12,318 --> 02:08:14,904
+<i>Nasıl sona ereceğini
+söylemeye gelmedim.</i>
+
+1360
+02:08:15,154 --> 02:08:18,115
+<i>Nasıl başlayacağını söylemeye geldim.</i>
+
+1361
+02:08:19,075 --> 02:08:20,660
+<i>Bu telefonu kapatıp, dışarı çıkacağım.</i>
+
+1362
+02:08:20,910 --> 02:08:23,996
+<i>Sonra da insanlara, görmelerini
+istemediğiniz şeyi göstereceğim.</i>
+
+1363
+02:08:24,246 --> 02:08:26,123
+<i>Onlara sizsiz bir dünyayı...</i>
+
+1364
+02:08:26,374 --> 02:08:28,125
+<i>... göstereceğim.</i>
+
+1365
+02:08:28,417 --> 02:08:32,046
+<i>Kural ve kontrolün olmadığı,
+sınırsız ve engelsiz bir dünya.</i>
+
+1366
+02:08:32,296 --> 02:08:36,008
+<i>Herşeyin mümkün olduğu bir dünya.</i>
+
+1367
+02:08:38,636 --> 02:08:39,971
+<i>Bundan sonra ne yapacağımız...</i>
+
+1368
+02:08:40,221 --> 02:08:42,181
+<i>... tamamen size bağlı.</i>
+
+1369
+02:16:14,550 --> 02:16:15,593
+<i>Turkish Subtitles Adapted by
+Adaptasyon: GELULA & CO., INC.</i>
+
